@@ -4,19 +4,35 @@ Project Description
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Question & Hypothesis](#Question and Hypothesis)
-3. [Requirements](#requirements)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Further Applications](#further-applications)
-7. [Contributors](#contributors)
+1. [Introduction and Question Identification](#Introduction and Question Identification)
+2. [Data Cleaning	](#Data Cleaning)
+3. [Univariate Analysis](#Univariate Analysis)
+4. [Bivariate Analysis](#Bivariate Analysis)
+5. [Interesting Aggregates](#Interesting Aggregates)
+6. [NMAR Analysis](#NMAR Analysis)
+7. [Missingness Dependency](#Missingness Dependency)
+8. [Hypothesis Testing](#Hypothesis Testing)
+9. [Requirements](#requirements)
+10. [Installation](#installation)
+11. [Usage](#usage)
+12. [Further Applications](#further-applications)
+13. [Contributors](#contributors)
 
-## Overview
+## Introduction and Question Identification
 
-## Question and Hypothesis
+## Data Cleaning	
 
-## Requirements
+### Univariate Analysis
+
+### Bivariate Analysis
+
+## NMAR Analysis	
+
+### Missingness Dependency	
+
+## Hypothesis Testing	
+
+### Requirements
 - Python 3.8+
 - librosa
 - TensorFlow
@@ -26,7 +42,7 @@ Project Description
 - scikit-learn
 - Optional: Cuda (if training on an Nvidia GPU)
 
-## Installation
+### Installation
 To install the project and its dependencies, follow these steps:
 
 1. Clone the repository:
@@ -47,15 +63,15 @@ cd
 pip install -r requirements.txt
 ```
 
-## Usage
+### Usage
 
 
-## Further Applications
+### Further Applications
 
 
 To adapt the project, simply prepare your data and follow the usage instructions outlined above.
 
-## Contributors
+### Contributors
 
 - [Nate del Rosario](https://natdosan.github.io)
 - Steven Luong
