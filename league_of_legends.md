@@ -4,7 +4,7 @@ Project Description
 
 ## Table of Contents
 
-1. [Introduction and Question Identification](#Introduction and Question Identification)
+1. [Introduction and Question Identification](#introduction-and-question-identification)
 2. [Data Cleaning	](#data-cleaning)
 3. [Univariate Analysis](#univariate-analysis)
 4. [Bivariate Analysis](#bivariate-analysis)
