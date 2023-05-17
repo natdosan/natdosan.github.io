@@ -12,11 +12,8 @@ Project Description
 6. [NMAR Analysis](#nmar-analysis)
 7. [Missingness Dependency](#missingness-dependency)
 8. [Hypothesis Testing](#hypothesis-testing)
-9. [Requirements](#requirements)
-10. [Installation](#installation)
-11. [Usage](#usage)
-12. [Further Applications](#further-applications)
-13. [Contributors](#contributors)
+9. [Results and Conclusion](#results-and-conclusion)
+
 
 ## Introduction and Question Identification
 
@@ -32,49 +29,17 @@ Project Description
 
 ## Hypothesis Testing	
 
+## Results and Conclusion
+
 ### Requirements
 - Python 3.8+
-- librosa
-- TensorFlow
-- Keras
 - NumPy
 - pandas
-- scikit-learn
-- Optional: Cuda (if training on an Nvidia GPU)
-
-### Installation
-To install the project and its dependencies, follow these steps:
-
-1. Clone the repository:
-
-```
-git clone https://github.com/
-```
-
-2. Change to the project directory:
-
-```
-cd 
-```
-
-3. Install the required dependencies:
-
-```
-pip install -r requirements.txt
-```
-
-### Usage
-
-
-### Further Applications
-
-
-To adapt the project, simply prepare your data and follow the usage instructions outlined above.
+- plotly
 
 ### Contributors
 
 - [Nate del Rosario](https://natdosan.github.io)
 - Steven Luong
 
-We appreciate all contributions to this project. If you would like to contribute, please open an issue or submit a pull request on the project's GitHub repository.
 
