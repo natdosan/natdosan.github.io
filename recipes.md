@@ -66,8 +66,16 @@ For instance, per the data dictionary, each value in the 'nutrition' column cont
 ### Univariate Analysis
 
 <iframe src="assets/fig_cookingtime.html" width=800 height=600 frameBorder=0></iframe>
+- This graph is representative of the cooking times without the extreme, extreme outliers. Emphasis on the double of extreme as there
+are still many outliers. Even when we removed anything past 50,000 minutes, the ditribution along the x axis still shows how extreme the outliers were. These were due to people making joke reviews such as "How to preserve your husband" which was not a real recipe.
+
 <iframe src="assets/fig_cookingtime2.html" width=800 height=600 frameBorder=0></iframe>
+- This graph is representative of the cooking times almost all outliers. We made the range of the x axis to be within 500 minutes because that is where >98% of the data fell in.
+- As we can see, the mean cooking time was around 30-50 minutes.
+
 <iframe src="assets/fig_num_ingredients.html" width=800 height=600 frameBorder=0></iframe>
+- This graph is representative of the distribution of number of ingredients per recipe. The mean appears to be around 9-11 ingredients per recipe. This distribution appears to be less 
+skewed in comparison to the cooking time distribution.
 
 ### Bivariate Analysis
 
