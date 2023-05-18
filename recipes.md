@@ -79,6 +79,13 @@ skewed in comparison to the cooking time distribution.
 
 ### Bivariate Analysis
 
+<iframe src="assets/avg_rating_min.html" width=800 height=600 frameBorder=0></iframe>
+- This scatter plot comparing the relationship between average rating and cooking time shows that a majority of our data falls in the area of 0 to 100 minutes of cooking time, aligning with the distribution plots. In addition though, we see that even when the cooking time is low, we find that the data points of average rating are above 3.5 stars. This suggest that average rating and cooking time are not necessarily positively or negatively correlated.
+
+<iframe src="assets/avg_num_ingredients.html" width=800 height=600 frameBorder=0></iframe>
+- This scatter plot comparing the relationship between average rating and number of ingredients shows that as the number of ingredients increases, the average rating increases. We can see this where there are a lot less reviews below 3 stars as the number of ingredients increases. This does not necessarily imply causation, but from a visual standpoint these variables do appear to be correlated.
+
+
 ## NMAR Analysis	
 
 ### Missingness Dependency	
