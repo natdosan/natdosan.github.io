@@ -46,6 +46,12 @@ For instance, per the data dictionary, each value in the 'nutrition' column cont
 
 ## Data Cleaning	
 
+1. Since the datasets for the recipes came in both reviews and interactions, we had to merge these to combine the columns into one uniform DataFrame. We did this by first grouping by the id's to get rid of duplicate entries and aggregating by the mean rating per each recipe (not by user), and then merging both the recipes dataset and interactions dataset on the common recipe_ids's.
+2. The next step we took was making sure all "missing" values were correctly labelled as Nan and not anything else such as an empty string or a 0 where there should not be a 0 (ex: 0 in the date column)
+3. Next we renamed some columns to be more descriptive and accurate of the data they held. This was important for making our EDA easier for us to understand the data within each column, as some of the column names were very ambiguous in nature.
+4. The next step was to address the 'nutrition' column which contained information in the form of a list of each macronutrient. We then assigned columns for each of the new macronutrients and then split the list accordingly, converting the dtypes of each column to a float instead of a string since our values were numeric.
+5. The last major step we took to clean the data was to convert the date column dtype from a string to a pandas datatime object, as handling dates as this type would be much easier to work with than handling strings of different length.
+
 ### Univariate Analysis
 
 ### Bivariate Analysis
