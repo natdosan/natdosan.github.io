@@ -18,11 +18,11 @@ Instructions and Guidelines can be found [here:](https://dsc80.com/project3/reci
 
 
 ## Introduction and Question Identification
-- Our research question was what is the relationship between cooking time and the number of ingredients? 
-- Furthermore, do more ingredients lead to higher ratings (or more positive reviews)
+- Our research question was what is the relationship between cooking time and the number of ingredients and ratings? 
 - There are 234429 rows from the dataset after merging the two input csv files. 
 
-This question is important because cooking time is often a deciding factor for whether or not someone decides to eat at home or order food instead. Because of this factor of time being important in our lives, we wanted to see
+This question is important because cooking time is often a deciding factor for whether or not someone decides to eat at home or order food instead. Because of this factor of time being important in our lives, we wanted to see how cooking time relates to the number of ingredients, as ideally lower cooking time and less ingredients is easier to cook with the dish being more simple. Furthermore, a simpler dish may be more enjoyable to cook and eat, leading to a higher rating.
+
 The features we will be focusing on “name”, “minutes”, “n_steps”, and ”nutrition” . 
 
 | Column Name  | Description |
