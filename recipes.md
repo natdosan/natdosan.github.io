@@ -2,6 +2,8 @@
 
 This project explores the Recipes and Interactions datasets from food.com. It was originally scraped and used by the authors of [this](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19c.pdf) recommender systems paper.
 
+Instructions and Guidelines can be found [here:](https://dsc80.com/project3/recipes-and-ratings/)
+
 ## Table of Contents
 
 1. [Introduction and Question Identification](#introduction-and-question-identification)
