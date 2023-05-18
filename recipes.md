@@ -85,8 +85,6 @@ skewed in comparison to the cooking time distribution.
 <iframe src="assets/avg_num_ingredients.html" width=800 height=600 frameBorder=0></iframe>
 - This scatter plot comparing the relationship between average rating and number of ingredients shows that as the number of ingredients increases, the average rating increases. We can see this where there are a lot less reviews below 3 stars as the number of ingredients increases. This does not necessarily imply causation, but from a visual standpoint these variables do appear to be correlated.
 
-- Pivot Tables
-
 
 |   cooking_quart |   average_rating |
 |----------------:|-----------------:|
