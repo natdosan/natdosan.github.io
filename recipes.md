@@ -65,6 +65,10 @@ For instance, per the data dictionary, each value in the 'nutrition' column cont
 
 ### Univariate Analysis
 
+<iframe src="assets/fig_cookingtime.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/fig_cookingtime2.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/fig_num_ingredients.html" width=800 height=600 frameBorder=0></iframe>
+
 ### Bivariate Analysis
 
 ## NMAR Analysis	
