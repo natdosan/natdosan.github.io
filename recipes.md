@@ -1,4 +1,4 @@
-# Recipes and Reviews EDA
+# Recipes and Reviews EDA - Is There a Relationship Between The Number of Ingredients/Cooking Time and Ratings?
 
 This project explores the Recipes and Interactions datasets from food.com. It was originally scraped and used by the authors of [this](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19c.pdf) recommender systems paper.
 
