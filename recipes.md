@@ -117,6 +117,8 @@ when **average_rating** is missing / not missing and vice versa are the same.
 
 <iframe src="assets/missingness_fig.html" width=800 height=600 frameBorder=0></iframe>
 
+We did find however that the missingness of **year_of_review** did depend on **rating** when we did our permutation tests among different columns, as the p-value we encountered was less than the .05 threshold at 0.0
+
 ## Hypothesis Testing	
 
 ### Recall our question at the start, what is the relationship between the number of ingredients and recipe rating? 
