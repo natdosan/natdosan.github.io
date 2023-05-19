@@ -112,6 +112,24 @@ Both tables were grouped by cooking time quartile and number of ingredients quar
 
 ## Hypothesis Testing	
 
+### Recall our question at the start, what is the relationship between the number of ingredients and recipe rating? 
+
+To answer this question we will run a permutation test to discover this relationship. 
+Since we want to test whether both groups of recipes have the same distribution, will perform a permutation test and shuffle the columns to make whether the number of ingredients is high or low random. We accomplish this by creating a new column, 'ingredient_class' based off of the number of ingredients for each recipe.
+Because the data we have are categorical (low / high ingredient amount) and numerical (rating), we will use the difference between the two group means as our test statistic.
+
+- Null Hypothesis: In the population, recipes that involve a higher number of ingredients and recipes of a lower number of ingredients have the same distribution of rating, and any differences are due to random chance. 
+
+- Alternative Hypothesis: In the population, recipes that involve a higher number of ingredients and recipes of a lower number of ingredients do not have the same distribution of rating, and any differences are not due to random chance alone.
+
+- Our test statistic will be **the difference in group means (mean rating of higher number of ingredients - mean rating of lower number ingredients)** We do not use the absolute value so that positive values point to the Null and Alternative values point to the Alternative
+
+- Significance Level: We choose a = .05 because that means that our test statistic would need to be in the extreme direction with less than a 5% chance of occuring to reject the null.
+
+- Resulting p-value: .257
+
+- Conclusion: We fail to reject the null. This suggests that recipes with a higher number of ingredients have a different distribution than recipes of lower number of ingredients, which makes sense when we refer back to the scatter plot visualization between number of ingredients and rating, where as number of ingredients increased, the number of lower ratings appeared to decreased as there were fewer and fewer points.
+
 ## Results and Conclusion
 
 ### Requirements
