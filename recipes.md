@@ -111,6 +111,12 @@ Recall that observations in a column are not missing at random (NMAR) if the cha
 
 ### Missingness Dependency	
 
+We wanted to see if the missingness in the **number_of_ingredients** column was dependent on the **rating column**
+Based on the plot below, and our permutation tests, this suggests that the the missingness is not dependent, as the distributions of **number_of_ingredients**
+when **average_rating** is missing / not missing and vice versa are the same. 
+
+<iframe src="assets/missingness_fig.html" width=800 height=600 frameBorder=0></iframe>
+
 ## Hypothesis Testing	
 
 ### Recall our question at the start, what is the relationship between the number of ingredients and recipe rating? 
