@@ -108,6 +108,8 @@ Both tables were grouped by cooking time quartile and number of ingredients quar
 
 ## NMAR Analysis	
 
+Recall that observations in a column are not missing at random (NMAR) if the chance that a value is missing depends on the actual missing value or other columns. We think that the missingness in the number of steps, 'number_of_steps' may depend on the 'steps' column because if people do not include any description for the steps, they may also not include the number of steps. To further look into this, some data to collect would be in the description column, as the respondent could have included some information about the steps in the description of a recipe instead.
+
 ### Missingness Dependency	
 
 ## Hypothesis Testing	
