@@ -14,7 +14,6 @@ Instructions and Guidelines can be found [here:](https://dsc80.com/project3/reci
 6. [NMAR Analysis](#nmar-analysis)
 7. [Missingness Dependency](#missingness-dependency)
 8. [Hypothesis Testing](#hypothesis-testing)
-9. [Results and Conclusion](#results-and-conclusion)
 
 
 ## Introduction and Question Identification
@@ -131,8 +130,6 @@ Because the data we have are categorical (low / high ingredient amount) and nume
 - Resulting p-value: .257
 
 - Conclusion: We fail to reject the null. This suggests that recipes with a higher number of ingredients have a different distribution than recipes of lower number of ingredients, which makes sense when we refer back to the scatter plot visualization between number of ingredients and rating, where as number of ingredients increased, the number of lower ratings appeared to decreased as there were fewer and fewer points.
-
-## Results and Conclusion
 
 ### Requirements
 - Python 3.8+
