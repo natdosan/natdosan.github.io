@@ -1,7 +1,17 @@
-# How Can We Compare Wav Files and Classify them?
+# How Can We Compare Song Audio Files and Classify them?
 
+## Research Question
+Since we’ve never worked with audio data or classification of audio data we wanted to try working with data that is structured as such. 
+We ask the question: how do the audio features from songs, specifically Spotify Tracks compare to each other? 
 
-This project aims to compare and classify wav files by extracting audio features and using a deep learning model. In this example, we are classifying audio clips of cats and dogs. This project is designed with flexibility in mind, making it easy to apply the same approach to other classification tasks, such as music genres.
+Is there a relationship between the some of these features such as tempo correlating with danceability/energy/liveness and if so how are they correlated. Additionally, how can we use these features to cluster songs based on these audio tracks of songs being coverted to numeric features?
+
+## Hypothesis
+Certain audio features will be statistically different between the distribution of certain genres. These differences in distributions will allow us to perform Unsupervised Learning on the data to cluster the songs into different groups / listening personas. 
+
+For example, the mean "tempo" of Pop Artists will be higher than that of Ballad Singers since Pop songs tend to be more upbeat and fast. 
+
+If numerical data is extracted from the songs then models can be trained to cluster / classify songs into different groups since there will be enough difference between certain features between certain groups. This approach of comparing audio features between two groups can then be applied to other projects such as comparisons of living beings/objects to classify the two.
 
 ## Table of Contents
 
@@ -16,8 +26,8 @@ This project aims to compare and classify wav files by extracting audio features
 
 This project consists of the following components:
 
-1. Audio Feature Extraction: We extract audio features from wav files using Python's `librosa` library.
-2. Deep Learning Model: We create a deep learning model using TensorFlow and Keras to classify audio clips.
+1. Audio Feature Extraction: We extract audio features on the Top Charting Songs from Spotify's API
+2. Deep Learning Model: We create a deep learning model using TensorFlow and Keras to classify songs into genres and listening personas.
 3. Evaluation: We evaluate the model's performance using accuracy, precision, recall, and F1-score metrics.
 4. Adaptability: The project is designed to be easily adaptable for other audio classification tasks.
 
@@ -56,12 +66,7 @@ pip install -r requirements.txt
 
 To use this project for classifying audio clips, follow these steps:
 
-1. Prepare your data: Organize your audio clips into separate folders for each class (e.g., `cats` and `dogs`).
-2. Extract audio features: Run the `extract_audio_features.py` script to process the audio files and save the extracted features as a CSV file:
-
-```
-python convert_wav_to_csv_and_dataframe
-```
+1. Prepare your data: Scape the dataset from Spotify's API or directly download it manually.
 
 ```
 python extract_audio_features.py 
@@ -77,7 +82,6 @@ python train_and_evaluate.py --input_file input_file.csv
 
 This project can be easily adapted to other audio classification tasks, such as:
 
-- Classifying music genres
 - Identifying speakers in a conversation
 - Detecting emotions in speech
 - Recognizing animal sounds or bird calls
@@ -94,17 +98,6 @@ To adapt the project, simply prepare your data and follow the usage instructions
 
 We appreciate all contributions to this project. If you would like to contribute, please open an issue or submit a pull request on the project's GitHub repository.
 
-This is your group repo for your final project for COGS108.
-
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
-
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
-
-This repository will be frozen on the final project due date. No further changes can be made after that time.
-
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
-
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
 
 - `ProjectProposal_groupXXX.ipynb`
 - `DataCheckpoint_groupXXX.ipynb`
