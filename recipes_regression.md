@@ -8,7 +8,7 @@ We will build a regression model to predict the average rating of a recipe as th
 
 ### Baseline Model
 
-In our baseline model, there are two predictor features, **'cooking_time'** (quantitative continuous) and **'number_of_ingredients'** (quanitative discrete). For this model, we did not have any categorical features, so we did not one hot encovde them or apply any other categorical transformations. For number of ingredients, we decided not to split it into quartiles and just keep it as the raw integer value for simplicity.
+In our baseline model, there are two predictor features, **'cooking_time'** (quantitative continuous) and **'number_of_ingredients'** (quanitative discrete). For this model, we did not have any categorical features, so we did not one hot encovde them or apply any other categorical transformations. For number of ingredients, we decided not to split it into quartiles and just keep it as the raw integer value for simplicity. Our current model is decent because it does not do a terrible job at generalizing unseen data.
 
 ### Final Model
 ### Fairness Analysis
