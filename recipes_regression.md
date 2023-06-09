@@ -4,7 +4,7 @@ Our exploratory data analysis on this dataset can be found [here](natdosan.githu
 
 ### Framing the Problem
 
-We will build a regression model to predict the average rating of a recipe as there appears to be correlation between our response variable, **'average_rating'** and other features such as **'cooking_time'** and **'number_of_ingredients'** based on our past bivariate analysis. We will then use RMSE and R^2 to evaluate our model; since it is not a classification model, we cannot use metrics such as accuracy, F1, Precision, or recall.
+We will build a regression model to predict the average rating of a recipe as there appears to be correlation between our response variable, **'average_rating'** and other features such as **'cooking_time'** and **'number_of_ingredients'** based on our past bivariate analysis. We will then use RMSE and R^2 to evaluate our model; since it is not a classification model, we cannot use metrics such as accuracy, F1, Precision, or recall. We chose RMSE and R^2 because both quantify how well our model fits the dataset. However they are better than other metrics such as Mean Absolute error since RMSE tells how well the model can predict the value of a response variable in absolute terms and squared making it more robust to outliers, and R^2 tells how well the predictor features explain the variance in the response. It is good to have both to measure the variance and error.
 
 ### Baseline Model
 
