@@ -10,6 +10,8 @@ We will build a classification model to predict the average rating of a recipe a
 
 Since our model is a classifier, we will evaluate metrics such as accuracy, F1, Precision, or recall. We chose precision and F1 to be the most important evaluation metrics because both quantify how well our model fits the dataset in the sense that the risk to reward ratio of  missing a good recipe outweighs the opposite of falsely labelling a bad recipe as good. For example, if we were recommending recipes to consumers, we wouldn't want to miss out on recommending a potentially good recipe versus recommending a bad recipe on accident because a bad review is subjective at the end of the day. 
 
+At the time of prediction, we would know the **'cooking_time'** and **'number_of_ingredients'** because in order for there to have been a review, these recipes would have had to have been created, cooked, and served to a customer, implying and verifying that these features are all known at the time of prediction since every review and the steps before it would have taken place beforehand.
+
 ### Baseline Model
 
 In our baseline model, there are 2 predictor features, **'cooking_time'** (quantitative continuous) and **'number_of_ingredients'** (quanitative discrete). For this model, we did not have any categorical features, so we did not one hot encovde them or apply any other categorical transformations. For number of ingredients, we decided not to split it into quartiles and just keep it as the raw integer value for simplicity. Our current model is decent because it does not do a terrible job at generalizing unseen data. 
