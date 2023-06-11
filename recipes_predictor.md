@@ -18,5 +18,18 @@ In our baseline model, there are 2 predictor features, **'cooking_time'** (quant
 
 ### Final Model
 
-In our final model, we encoded new categorical features such as **'has_good_or_bad_in_review'** 
+In our final model, we encoded new categorical features such as **'has_good_or_bad_in_review'**, **'high_calories'**, and **'has_sugar'** in addition to to the original features in the first model. 
+
+We chose these new encoded features because we hypothesize that if a review has the word 'good' in it, it is more likely to receive a higher review than if the review has the word 'bad' in it. In addition, we think that higher calories and a sugar content of some sort are common among satisfactory foods. We had to arbitraily set thresholds for these, so we did our best to estimate.
+
+Since we are not dealing with Binary Classification, but rather multiclass, we cannot simply just use 'precision' or 'recall' for our evaluation. In addition we must also consider a weighted, macro, or micro option to specify how to handle the calculations:
+
+- 'micro': Calculate metrics globally by counting the total true positives, false negatives and false positives.
+- 'macro': Calculate metrics for each label, and find their unweighted mean. This does not take label imbalance into account.
+- 'weighted': Calculate metrics for each label, and find their average weighted by support (the number of true instances for each label).
+
+For our case, since there are label imbalances, we will not use macro. A better approach seems to be weighted, so we will try accuracy, weighted precision, and F1 scores.
+
+Recall from DSC40A that we can only fit a model better when adding more features, thus this could only improve the generalization of our final model to unseen data. The added features likely improved our model because of a few reasons. First, adding information in the form of new features can include information that isn't present (or is less obvious) in the original features. For example, the binary feature indicating whether a recipe's calorie count is above 500 could be more predictive of a certain outcome than the raw calorie count itself. Similarly, knowing if a review includes words like "good" or "bad" might be useful information that's not directly available in the raw review text. In addition, new features can simplify relationships; they can be engineered thus making them easier for the model to learn. For example, a tree model would struggle to learn that there's a sharp cutoff at 500 calories (provided the depth is not deep enough to overfit), but introducing a feature for "calories > 500" allows the model to capture that relationship more easily.
+
 ### Fairness Analysis
