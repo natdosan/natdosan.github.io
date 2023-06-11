@@ -32,4 +32,6 @@ For our case, since there are label imbalances, we will not use macro. A better 
 
 Recall from DSC40A that we can only fit a model better when adding more features, thus this could only improve the generalization of our final model to unseen data. The added features likely improved our model because of a few reasons. First, adding information in the form of new features can include information that isn't present (or is less obvious) in the original features. For example, the binary feature indicating whether a recipe's calorie count is above 500 could be more predictive of a certain outcome than the raw calorie count itself. Similarly, knowing if a review includes words like "good" or "bad" might be useful information that's not directly available in the raw review text. In addition, new features can simplify relationships; they can be engineered thus making them easier for the model to learn. For example, a tree model would struggle to learn that there's a sharp cutoff at 500 calories (provided the depth is not deep enough to overfit), but introducing a feature for "calories > 500" allows the model to capture that relationship more easily.
 
+# TODO : final algorithm and the hyperparameters
+
 ### Fairness Analysis
