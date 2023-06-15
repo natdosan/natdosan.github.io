@@ -4,9 +4,7 @@ Our exploratory data analysis on this dataset can be found [here](natdosan.githu
 
 ### Framing the Problem
 
-We will build a classification model to predict the rating of a recipe as there appears to be correlation between 'rating' and other features such as 'cooking_time' and 'number_of_ingredients' based on our past bivariate analysis
-
-We will build a classification model to predict the average rating of a recipe as there appears to be correlation between our response variable, **'rating'** and other features such as **'cooking_time'** and **'number_of_ingredients'** based on our past bivariate analysis. 
+We will build a classification model to predict the rating of a recipe as there appears to be correlation between 'rating' and other features such as 'cooking_time' and 'number_of_ingredients' based on our past bivariate analysis. This will be a multi-class prediction problem, not a binary one since there are 5 different ratings possible.
 
 - **Response Variable**: We chose **rating** as the response variable because it was quantitative discrete, meaning we can classify it easily. In addition, in the real world, the rating of a dish is very important, so trying to correctly classify a dish as a 5 star vs 1 star one can be important for restaurants and customers. 
 
