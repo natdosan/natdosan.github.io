@@ -26,12 +26,14 @@ We will build a classification model to predict the average rating of a recipe a
 
 - Our baseline model does not generalize well to the dataset because of these reasons. The evaluation metrics are shown below:
 
-| Metric   | Train Score       | Test Score         |
-| -------- | ----------------- | ------------------ |
-| Accuracy | 0.7749922608055168| 0.770068317677199  |
-| Precision| 0.7380132710957437| 0.6400513158165287 |
-| Recall   | 0.7749922608055168| 0.770068317677199  |
-| F1 Score | 0.682863116045603 | 0.6758132713416671 |
+      | Metric   | Train Score       | Test Score         |
+      | -------- | ----------------- | ------------------ |
+      | Accuracy | 0.7749922608055168| 0.770068317677199  |
+      | Precision| 0.7380132710957437| 0.6400513158165287 |
+      | Recall   | 0.7749922608055168| 0.770068317677199  |
+      | F1 Score | 0.682863116045603 | 0.6758132713416671 |
+ 
+ As we can see, there is huge drop in Testing Precision, meaning it does not generalize well in reducing incorrect predictions, specifcally reducing false negatives. 
 
 
 ### Final Model
