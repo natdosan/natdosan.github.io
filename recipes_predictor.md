@@ -36,7 +36,7 @@ We will build a classification model to predict the rating of a recipe as there 
 
 ### Final Model
 
-In our final model, we encoded new categorical features such as **'has_good_or_bad_in_review'**, **'high_calories'**, and **'has_sugar'** in addition to to the original features in the first model. 
+Our final model has 4 additional categorical features, **'has_good_in_review'**, **'has_bad_in_review'**, **'high_calories'**, and **'has_sugar'** in addition to to the original features in the first model. 
 
 We chose these new encoded features because we hypothesize that if a review has the word 'good' in it, it is more likely to receive a higher review than if the review has the word 'bad' in it. In addition, we think that higher calories and a sugar content of some sort are common among satisfactory foods. We had to arbitraily set thresholds for these, so we did our best to estimate.
 
