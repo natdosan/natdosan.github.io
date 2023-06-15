@@ -20,7 +20,7 @@ We will build a classification model to predict the rating of a recipe as there 
 
 - **Feature Transformations**: We performed a total of 3 transformations. Both are quantitative so we did not need to One Hot Encode them as we thought keeping them numerical would be best for this model. However minutes is in a different unit than # of ingredients, so we will standardize these using the standard scaler. In addition, before standardizing, we will apply a square transformation using a FunctionTransformer to the **'number_of_ingredients'** column since it is skewed left a noticable amount.
 
-- **Performance**: The current model is not "good" because it is a naive one that almost always predicts a 5 star rating. This is most likely due to the huge dataset imbalance. To combat this, we may train on a subset by oversampling from the minority or undersampling from the majority. Both have trade offs, where oversampling can cause overfitting since we have a lot of duplicate entries for some classes which may not generalize well to the rest of the data and undersampling can cause valuable information loss. In our final model we will hope to tackle this problem.
+- **Performance**: The current model is not "good" because it is a naive one that almost always predicts a 5 star rating. This is most likely due to the huge dataset imbalance. To combat this, we may train on a subset by oversampling from the minority or undersampling from the majority. Both have trade offs, where oversampling can cause overfitting since we have a lot of duplicate entries for some classes which may not generalize well to the rest of the data and undersampling can cause valuable information loss. Another solution we will try is assigning weights to the classes so that their imbalance when training the model is taken into account. In our final model we will hope to tackle this problem.
 
 - Our baseline model does not generalize well to the dataset because of these reasons. The evaluation metrics are shown below:
 
@@ -54,3 +54,12 @@ We will build a classification model to predict the rating of a recipe as there 
       | F1 Score | 0.752863116045603 | 0.7458132713416671 |
 
 ### Fairness Analysis
+
+We ask the question, "does our final model perform better for recipes of 5 star reviews than it does for recipes of all other ratings? Our evaluation metric will again be precision, and our hypotheses are as follows:
+
+- **Null Hypothesis**: Our model if fair. Its precision among recipes of 5 star reviews and 4 star reviews and lower are roughly the same, and any differences are likely due to chance
+- **Alternative Hypothesis**: Our model is not fair. Its precision among recipes of 5 star reviews is higher than recipes of 4 star reviews.
+
+- **Test Statistic**: We will use the signed difference in precision as our test statistic, and our significance level will be 5%
+
+Outcome
