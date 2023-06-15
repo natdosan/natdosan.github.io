@@ -24,6 +24,16 @@ We will build a classification model to predict the average rating of a recipe a
 
 - **Performance**: The current model is not "good" because it is a naive one that almost always predicts a 5 star rating. This is most likely due to the huge dataset imbalance. To combat this, we may train on a subset by oversampling from the minority or undersampling from the majority. Both have trade offs, where oversampling can cause overfitting since we have a lot of duplicate entries for some classes which may not generalize well to the rest of the data and undersampling can cause valuable information loss. In our final model we will hope to tackle this problem.
 
+- Our baseline model does not generalize well to the dataset because of these reasons. The evaluation metrics are shown below:
+
+| Metric   | Train Score       | Test Score         |
+| -------- | ----------------- | ------------------ |
+| Accuracy | 0.7749922608055168| 0.770068317677199  |
+| Precision| 0.7380132710957437| 0.6400513158165287 |
+| Recall   | 0.7749922608055168| 0.770068317677199  |
+| F1 Score | 0.682863116045603 | 0.6758132713416671 |
+
+
 ### Final Model
 
 In our final model, we encoded new categorical features such as **'has_good_or_bad_in_review'**, **'high_calories'**, and **'has_sugar'** in addition to to the original features in the first model. 
