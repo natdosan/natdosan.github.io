@@ -44,8 +44,13 @@ We will build a classification model to predict the rating of a recipe as there 
 
 - **Algorithm Chosen**: We chose _ because _. 
 - We used GridSearchCV with a different number of folds ranging from 5 to 10 to find the optimal hyperparameters.
-- Our final model's performance can be considered an improvement because we were able to improve Precision and therefore F1 score by accounting for the class imbalance, as well as engineering additional features that ended up improving our evaluation metrics on the test set. As a result, our model generalized better to unseen data which is what we want, indicating an improvement backed by metrics.
+- Our final model's performance can be considered an improvement because we were able to improve Precision and therefore F1 score from the baseline model by accounting for the class imbalance, as well as engineering additional features that ended up improving our evaluation metrics on the test set. As a result, our model generalized better to unseen data which is what we want, indicating an improvement backed by metrics.
 
-# TODO : Insert Confusion Matrix and metrics
+      | Metric   | Train Score       | Test Score         |
+      | -------- | ----------------- | ------------------ |
+      | Accuracy | 0.7749922608055168| 0.780068317677199  |
+      | Precision| 0.7680132710957437| 0.7100513158165287 |
+      | Recall   | 0.7749922608055168| 0.780068317677199  |
+      | F1 Score | 0.752863116045603 | 0.7458132713416671 |
 
 ### Fairness Analysis
