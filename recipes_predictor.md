@@ -56,8 +56,8 @@ Recall from DSC40A that we can only fit a model better when adding more features
 
       | Metric   | Train Score       | Test Score         |
       | -------- | ----------------- | ------------------ |
-      | Precision| 0.780132710957437| 0.7600513158165287 |
-      | F1 Score | 0.752863116045603 | 0.723137606754733 |
+      | Precision| 0.780132710957437 | 0.7600513158165287 |
+      | F1 Score | 0.752863116045603 | 0.723137606754733  |
 
 ### Fairness Analysis
 
