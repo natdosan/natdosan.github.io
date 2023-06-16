@@ -65,7 +65,7 @@ Recall from DSC40A that we can only fit a model better when adding more features
 
 ### Fairness Analysis
 
-We ask the question, "does our final model perform better for recipes of 5 star reviews than it does for recipes of all other ratings? Our evaluation metric will again be precision, and our hypotheses are as follows:
+We ask the question, "does our final model perform better for recipes of 5 star reviews than it does for recipes of all other ratings? To explore this question, we will run a permutation test where we shuffle the ratings of group X, 5 stars, and group Y, 4 stars and below. Our evaluation metric will accuracy because we want to get an idea of the TP + TN out of the entire predictions, and our hypotheses are as follows:
 
 - **Null Hypothesis**: Our model if fair. Its precision among recipes of 5 star reviews and 4 star reviews and lower are roughly the same, and any differences are likely due to chance
 - **Alternative Hypothesis**: Our model is not fair. Its accuracy among recipes of 5 star reviews is higher than recipes of 4 star reviews.
