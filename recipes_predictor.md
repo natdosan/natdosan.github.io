@@ -26,9 +26,7 @@ We will build a classification model to predict the rating of a recipe as there 
 
       | Metric   | Train Score       | Test Score         |
       | -------- | ----------------- | ------------------ |
-      | Accuracy | 0.7749922608055168| 0.770068317677199  |
       | Precision| 0.7380132710957437| 0.6400513158165287 |
-      | Recall   | 0.7749922608055168| 0.770068317677199  |
       | F1 Score | 0.682863116045603 | 0.6758132713416671 |
  
  As we can see, there is huge drop in Testing Precision, meaning it does not generalize well in reducing incorrect predictions, specifcally reducing false negatives. 
@@ -58,10 +56,8 @@ Recall from DSC40A that we can only fit a model better when adding more features
 
       | Metric   | Train Score       | Test Score         |
       | -------- | ----------------- | ------------------ |
-      | Accuracy | 0.7749922608055168| 0.780068317677199  |
-      | Precision| 0.7680132710957437| 0.7100513158165287 |
-      | Recall   | 0.7749922608055168| 0.780068317677199  |
-      | F1 Score | 0.752863116045603 | 0.7458132713416671 |
+      | Precision| 0.780132710957437| 0.7600513158165287 |
+      | F1 Score | 0.752863116045603 | 0.723137606754733 |
 
 ### Fairness Analysis
 
