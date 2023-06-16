@@ -68,8 +68,8 @@ Recall from DSC40A that we can only fit a model better when adding more features
 We ask the question, "does our final model perform better for recipes of 5 star reviews than it does for recipes of all other ratings? Our evaluation metric will again be precision, and our hypotheses are as follows:
 
 - **Null Hypothesis**: Our model if fair. Its precision among recipes of 5 star reviews and 4 star reviews and lower are roughly the same, and any differences are likely due to chance
-- **Alternative Hypothesis**: Our model is not fair. Its precision among recipes of 5 star reviews is higher than recipes of 4 star reviews.
+- **Alternative Hypothesis**: Our model is not fair. Its accuracy among recipes of 5 star reviews is higher than recipes of 4 star reviews.
 
-- **Test Statistic**: We will use the signed difference in precision as our test statistic, and our significance level will be 5%
+- **Test Statistic**: We will use the absolute difference in precision as our test statistic, and our significance level will be 1%
 
-Outcome
+After looking at the distribution and where the observed statistic lied, we saw that the result was statistically signifcant with a p-value less than 0.01 (our significance level), thus we reject the null hypothesis. This suggests our model is not fair, as it appears stastically biased towards the 5 star rating. This affirms our suspicion that our model was possibly biased due to the fact that there was a huge majority of results in favor of the majority class ratings while there was less of a favor towards the minority class ratings. Infact our test statistic was so far in the extreme direction that you could barely see the distribution.
