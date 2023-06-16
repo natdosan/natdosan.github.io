@@ -38,7 +38,7 @@ We will build a classification model to predict the rating of a recipe as there 
 
 To start, we tried Boosting and the Decision Tree Classifiers, but with hyperparameter selection through GridSearch, not only did the code take so long that the DataHub and Local kernels died, but also when we tried on a small subset of hyperparameters, both of them ended up overfitting, a commmon tendency among the two models. Due to this, we decided to use random forest, since it works way better with imbalanced data and preventing overfitting.
 
-- **Description**: Our final model has 4 additional numeric features, **'sugar', 'calories', 'sodium', 'protein'**. We added these because there seemed to be a correlation between these and ratings in our EDA, which intuititvely makes sense. Higher sugar and sodium are common among salty and sweet savory foods, which also increase calories. Protein is common in meat, which often times makes a meal better. We also added 4 additional categorical features, **'has_good_in_review'**, **'has_bad_in_review'**, **'high_calories'**, and **'has_sugar'** in addition to to the original features in the first model. These were engineered from the numerical features we added.  
+- **Description**: Our final model has 5 additional numeric features, **'sugar', 'calories', 'sodium', 'protein', 'average_rating'**. We added these because there seemed to be a correlation between these and ratings in our EDA, which intuititvely makes sense. Higher sugar and sodium are common among salty and sweet savory foods, which also increase calories. Protein is common in meat, which often times makes a meal better. We also added 4 additional categorical features, **'has_good_in_review'**, **'has_bad_in_review'**, **'high_calories'**, and **'has_sugar'** in addition to to the original features in the first model. These were engineered from the numerical features we added. We also included the average rating because it can give a good idea to what the actual rating a person gave may be. 
 
 - We chose these new encoded features because we hypothesize that if a review has the word 'good' in it, it is more likely to receive a higher review than if the review has the word 'bad' in it. In addition, we think that higher calories and a sugar content of some sort are common among satisfactory foods. We had to arbitraily set thresholds for these, so we did our best to estimate.
 
@@ -50,7 +50,7 @@ Recall from DSC40A that we can only fit a model better when adding more features
 
 - **Algorithm Chosen**: We chose a Random Forest Classifier because of its ability to handle imbalanced data and prevent overfitting in comparison to decision trees. 
 
-- We used GridSearchCV with a different number of folds ranging from 5 to 10 to find the optimal hyperparameters. 
+- We used GridSearchCV with a different number of folds ranging from 5 to 10 to find the optimal hyperparameters. You can see the defined functions we used and some of the hyperparameters used as well, though we commented out this code since it takes a long time to run and we already found the optimal hyperparameters. 
 
 - **Hyperparameters**: The optimal hyperparameters we found were a **max_depth** = 100, **n_estimators** = 300, **max_features** = 'sqrt' / 3.
 
