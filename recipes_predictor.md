@@ -16,7 +16,7 @@ We will build a classification model to predict the rating of a recipe as there 
 
 ### Baseline Model
 
-- **Description**: In our baseline model, there are 2 predictor features, **'cooking_time'** (quantitative continuous) and **'number_of_ingredients'** (quanitative discrete). For this model, we did not have any categorical features, so we did not one hot encovde them or apply any other categorical transformations. For number of ingredients, we decided not to split it into quartiles and just keep it as the raw integer value for simplicity. We will use 'number_of_ingredients' and 'cooking_time' as features of our baseline Decision Tree Classification model. 
+- **Description**: In our baseline model, there are 2 predictor features, **'cooking_time'** (quantitative continuous) and **'number_of_ingredients'** (ordinal discrete). For this model, we did not have any categorical features, so we did not one hot encovde them or apply any other categorical transformations. For number of ingredients, we decided not to split it into quartiles and just keep it as the raw integer value for simplicity. We will use 'number_of_ingredients' and 'cooking_time' as features of our baseline Decision Tree Classification model. 
 
 - **Feature Transformations**: We performed a total of 3 transformations. Both are quantitative so we did not need to One Hot Encode them as we thought keeping them numerical would be best for this model. However minutes is in a different unit than # of ingredients, so we will standardize these using the standard scaler. In addition, before standardizing, we will apply a square transformation using a FunctionTransformer to the **'number_of_ingredients'** column since it is skewed left a noticable amount.
 
@@ -50,7 +50,7 @@ Recall from DSC40A that we can only fit a model better when adding more features
 
 - We used GridSearchCV with a different number of folds ranging from 5 to 10 to find the optimal hyperparameters. You can see the defined functions we used and some of the hyperparameters used as well, though we commented out this code since it takes a long time to run and we already found the optimal hyperparameters. 
 
-- **Hyperparameters**: The optimal hyperparameters we found were a **max_depth** = 100, **n_estimators** = 300, **max_features** = 'sqrt' / 3.
+- **Hyperparameters**: We tuned a combination of the max depth, number of estimators, and the max features for the Random Forest to find a combination that led a model that generalized the best to unseen data (ie performs well on the test set). The optimal hyperparameters we found were a **max_depth** = 100, **n_estimators** = 300, **max_features** = 'sqrt' / 3.
 
 - **Performance**: Our final model's performance can be considered an improvement because we were able to improve Precision and therefore F1 score from the baseline model by accounting for the class imbalance, as well as engineering additional features that ended up improving our evaluation metrics on the test set. In addition, we see from the confusion matrix that our model does not have the same tendency to always predict a 5 star rating like the baseline. As a result, our model generalized better on unseen data for our evaluation metrics which is what we want, indicating an improvement backed by metrics.
 
