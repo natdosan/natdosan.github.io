@@ -52,8 +52,15 @@ Recall from DSC40A that we can only fit a model better when adding more features
 
 - **Hyperparameters**: The optimal hyperparameters we found were a **max_depth** = 100, **n_estimators** = 300, **max_features** = 'sqrt' / 3.
 
-- Our final model's performance can be considered an improvement because we were able to improve Precision and therefore F1 score from the baseline model by accounting for the class imbalance, as well as engineering additional features that ended up improving our evaluation metrics on the test set. As a result, our model generalized better to unseen data which is what we want, indicating an improvement backed by metrics.
+- **Performance**: Our final model's performance can be considered an improvement because we were able to improve Precision and therefore F1 score from the baseline model by accounting for the class imbalance, as well as engineering additional features that ended up improving our evaluation metrics on the test set. In addition, we see from the confusion matrix that our model does not have the same tendency to always predict a 5 star rating like the baseline. As a result, our model generalized better on unseen data for our evaluation metrics which is what we want, indicating an improvement backed by metrics.
 
+### Baseline Model
+      | Metric   | Train Score       | Test Score         |
+      | -------- | ----------------- | ------------------ |
+      | Precision| 0.7380132710957437| 0.6400513158165287 |
+      | F1 Score | 0.682863116045603 | 0.6758132713416671 |
+
+### Final Model
       | Metric   | Train Score       | Test Score         |
       | -------- | ----------------- | ------------------ |
       | Precision| 0.780132710957437 | 0.7600513158165287 |
