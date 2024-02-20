@@ -1,0 +1,14 @@
+<body>
+  We chose a simple and clean design for the map interface to ensure that the focus remains on the map itself. We chose a dark theme for the map style as it provides a 
+  visually appealing backdrop for the map elements as well as providing ease of use at night time. The railway lines are represented as light blue lines to differentiate
+  them from other map features while still adhering to the dark theme. The toggle button allows users to easily display or hide the railway lines, providing a simple and
+  intuitive way to control the visibility of this layer. It also provides the user the option use the default map or the map with enchanced railway information. The markers 
+  appear over the most popular railway stations providing additional information to enchance the user's understanding of the map data when clicked. Some alternatives we considered
+  was changing the color of the railway lines and map but we opted to our final combination of colors and themes as it is clear and aesthetic. We were also thinking of 
+  making the map 3-dimensional but we opted for 2-dimensional for clarity. We also considered adding a legend to explain colors, styles, and/or icons but decided on keeping
+  the interface uncluttered and clean as most of the information is already on the map itself.
+  
+  This project was split between Nate and Trevan and it took about 15-20 hours to develop the site give or take including research, design, implementation, testing, etc.
+  Nate developed the railway line to map integration and markers. Trevan developed the railway line toggle plus button and map themeing.
+  The most time-consuming was debugging map interface to display the map, railway lines, button, and markers all at the same time without interferance.
+</body>
