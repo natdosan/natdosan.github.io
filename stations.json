@@ -1,0 +1,42 @@
+{
+    "Tokyo": [
+        {"name": "Shinjuku Station", "coordinates": [139.7005, 35.6896], "ridership": "3,500,000"},
+        {"name": "Shibuya Station", "coordinates": [139.70199, 35.658034], "ridership": "2,800,000"},
+        {"name": "Tokyo Station", "coordinates": [139.7671, 35.6814], "ridership": "2,700,000"},
+        {"name": "Ikebukuro Station", "coordinates": [139.7100, 35.7295], "ridership": "2,600,000"},
+        {"name": "Shinagawa Station", "coordinates": [139.739, 35.628], "ridership": "1,800,000"},
+        {"name": "Ueno Station", "coordinates": [139.7772, 35.7138], "ridership": "1,500,000"},
+        {"name": "Akihabara Station", "coordinates": [139.7731, 35.6983], "ridership": "1,300,000"},
+        {"name": "Shinbashi Station", "coordinates": [139.7581, 35.6655], "ridership": "1,200,000"},
+        {"name": "Kinshicho Station", "coordinates": [139.8164, 35.6964], "ridership": "1,100,000"},
+        {"name": "Mejiro Station", "coordinates": [139.7004, 35.7212], "ridership": "1,000,000"}
+    ],
+    "Osaka": [
+        {"name": "Osaka Station", "coordinates": [135.4982, 34.7025], "ridership": "2,500,000"},
+        {"name": "Umeda Station", "coordinates": [135.4988, 34.7054], "ridership": "2,400,000"},
+        {"name": "Namba Station", "coordinates": [135.5022, 34.6625], "ridership": "2,200,000"},
+        {"name": "Tennoji Station", "coordinates": [135.5185, 34.6553], "ridership": "1,800,000"},
+        {"name": "Shin-Osaka Station", "coordinates": [135.5002, 34.7335], "ridership": "1,600,000"}
+    ],
+    "Kyoto": [
+        {"name": "Kyoto Station", "coordinates": [135.7588, 34.9858], "ridership": "2,000,000"},
+        {"name": "Karasuma Station", "coordinates": [135.7612, 35.0003], "ridership": "1,500,000"},
+        {"name": "Kawaramachi Station", "coordinates": [135.7681, 35.0035], "ridership": "1,300,000"},
+        {"name": "Arashiyama Station", "coordinates": [135.6668, 35.0094], "ridership": "1,100,000"},
+        {"name": "Katsura Station", "coordinates": [135.6934, 34.9824], "ridership": "900,000"}
+    ],
+    "Nagoya": [
+        {"name": "Nagoya Station", "coordinates": [136.8815, 35.1709], "ridership": "2,300,000"},
+        {"name": "Kanayama Station", "coordinates": [136.9001, 35.1568], "ridership": "1,800,000"},
+        {"name": "Sakae Station", "coordinates": [136.9085, 35.1681], "ridership": "1,500,000"},
+        {"name": "Jingu-mae Station", "coordinates": [136.9079, 35.1532], "ridership": "1,200,000"},
+        {"name": "Fushimi Station", "coordinates": [136.8836, 35.1649], "ridership": "1,000,000"}
+    ],
+    "Hiroshima": [
+        {"name": "Hiroshima Station", "coordinates": [132.4522, 34.3974], "ridership": "1,200,000"},
+        {"name": "Yokogawa Station", "coordinates": [132.4561, 34.4023], "ridership": "850,000"},
+        {"name": "Hacchobori Station", "coordinates": [132.4656, 34.3969], "ridership": "640,000"},
+        {"name": "Hiroden-miyajima-guchi Station", "coordinates": [132.3507, 34.3481], "ridership": "500,000"},
+        {"name": "Shiraichi Station", "coordinates": [132.5113, 34.3669], "ridership": "300,000"}
+    ]
+}      
