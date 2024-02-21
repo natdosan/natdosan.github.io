@@ -1,15 +1,86 @@
 {
-    "Tokyo": [
-        {"name": "Shinjuku Station", "coordinates": [139.7005, 35.6896], "ridership": "3,500,000"},
-        {"name": "Shibuya Station", "coordinates": [139.70199, 35.658034], "ridership": "2,800,000"},
-        {"name": "Tokyo Station", "coordinates": [139.7671, 35.6814], "ridership": "2,700,000"},
-        {"name": "Ikebukuro Station", "coordinates": [139.7100, 35.7295], "ridership": "2,600,000"},
-        {"name": "Shinagawa Station", "coordinates": [139.739, 35.628], "ridership": "1,800,000"},
-        {"name": "Ueno Station", "coordinates": [139.7772, 35.7138], "ridership": "1,500,000"},
-        {"name": "Akihabara Station", "coordinates": [139.7731, 35.6983], "ridership": "1,300,000"},
-        {"name": "Shinbashi Station", "coordinates": [139.7581, 35.6655], "ridership": "1,200,000"},
-        {"name": "Kinshicho Station", "coordinates": [139.8164, 35.6964], "ridership": "1,100,000"},
-        {"name": "Mejiro Station", "coordinates": [139.7004, 35.7212], "ridership": "1,000,000"}
+    "Tokyo": 
+            [
+                {
+                  "name": "Ikebukuro Station",
+                  "coordinates": [139.7100, 35.7295],
+                  "line": "Marunouchi Line Yurakucho Line Fukutoshin Line",
+                  "ridership": 461392,
+                  "ward": "Toshima",
+                  "population": 301599
+                },
+                {
+                  "name": "Otemachi Station",
+                  "coordinates": [139.7652, 35.6848],
+                  "line": "Marunouchi Line Tozai Line Chiyoda Line Hanzomon Line",
+                  "ridership": 277497,
+                  "ward": "Chiyoda",
+                  "population": 66680
+                },
+                {
+                  "name": "KitaSenju Station",
+                  "coordinates": [139.7984, 35.748],
+                  "line": "Chiyoda Line",
+                  "ridership": 215800,
+                  "ward": "Adachi",
+                  "population": 695043
+                },
+                {
+                  "name": "Ginza Station",
+                  "coordinates": [139.7631, 35.6719],
+                  "line": "Ginza Line Marunouchi Line Hibiya Line",
+                  "ridership": 188770,
+                  "ward": "Chūō",
+                  "population": 169179
+                },
+                {
+                  "name": "Shinjuku Station",
+                  "coordinates": [139.7005, 35.6896],
+                  "line": "Marunouchi Line",
+                  "ridership": 180278,
+                  "ward": "Shinjuku",
+                  "population": 349385
+                },
+                {
+                  "name": "Toyosu Station",
+                  "coordinates": [139.7966, 35.6551],
+                  "line": "Yurakucho Line",
+                  "ridership": 176881,
+                  "ward": "Kōtō",
+                  "population": 524310
+                },
+                {
+                  "name": "Shimbashi Station",
+                  "coordinates": [139.7581, 35.6655],
+                  "line": "Ginza Line",
+                  "ridership": 173836,
+                  "ward": "Minato",
+                  "population": 260486
+                },
+                {
+                  "name": "Ueno Station",
+                  "coordinates": [139.7772, 35.7138],
+                  "line": "Ginza Line Hibiya Line",
+                  "ridership": 162861,
+                  "ward": "Taitō",
+                  "population": 211444
+                },
+                {
+                  "name": "Tokyo Station",
+                  "coordinates": [139.7671, 35.6814],
+                  "line": "Marunouchi Line",
+                  "ridership": 162608,
+                  "ward": "Chiyoda",
+                  "population": 66680
+                },
+                {
+                  "name": "Shibuya Station",
+                  "coordinates": [139.70199, 35.658034],
+                  "line": "Ginza Line",
+                  "ridership": 158056,
+                  "ward": "Shibuya",
+                  "population": 243883
+                }         
     ],
     "Osaka": [
         {"name": "Osaka Station", "coordinates": [135.4982, 34.7025], "ridership": "2,500,000"},
