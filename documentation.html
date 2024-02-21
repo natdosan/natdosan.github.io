@@ -1,14 +1,20 @@
 <body>
   We chose a simple and clean design for the map interface to ensure that the focus remains on the map itself. We chose a dark theme for the map style as it provides a 
   visually appealing backdrop for the map elements as well as providing ease of use at night time. The railway lines are represented as light blue lines to differentiate
-  them from other map features while still adhering to the dark theme. The toggle button allows users to easily display or hide the railway lines, providing a simple and
+  them from other map features while still adhering to the dark theme. Because the water is a very dark blue, the light blue does not conflict with it on the map. 
+  The toggle button allows users to easily display or hide the railway lines, providing a simple and
   intuitive way to control the visibility of this layer. It also provides the user the option use the default map or the map with enchanced railway information. The markers 
   appear over the most popular railway stations providing additional information to enchance the user's understanding of the map data when clicked. Some alternatives we considered
   was changing the color of the railway lines and map but we opted to our final combination of colors and themes as it is clear and aesthetic. We were also thinking of 
   making the map 3-dimensional but we opted for 2-dimensional for clarity. We also considered adding a legend to explain colors, styles, and/or icons but decided on keeping
-  the interface uncluttered and clean as most of the information is already on the map itself.
+  the interface uncluttered and clean as most of the information is already on the map itself. Additionally, we implemented an opacity encoding for the station markers to show the 
+  ridership to nearby population (defined by the ward the station exists in) ratio for each station. This addition of density ultimately would not display in the deployed app, but 
+  the code logic can be found in the App.svelte file. Another interaction technique we used was hover metrics; when you click on the station markers, the number of daily riders appears, 
+  and when you hover over a track / line, the Kanji name also appears. We chose these to promote interaction; they are not immediately obvious, but the marker icon design prompts the user
+  to hover over and interact with these markers.
   
   This project was split between Nate and Trevan and it took about 15-20 hours to develop the site give or take including research, design, implementation, testing, etc.
   Nate developed the railway line to map integration and markers. Trevan developed the railway line toggle plus button and map themeing.
-  The most time-consuming was debugging map interface to display the map, railway lines, button, and markers all at the same time without interferance.
+  The most time-consuming was debugging map interface to display the map, railway lines, button, and markers all at the same time without interferance. Eventually the changes stopped 
+  showing up in the deployed app, even though they were rendering locally. We plan to address this in the final project now that we have more time!
 </body>
