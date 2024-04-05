@@ -108,7 +108,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Undergraduate Student at UCSD"
   location         : ".isin(['San Francisco', 'La Jolla', 'NYC', 'Tokyo', 'Shanghai']) "
-  email            : nadelrosario@ucsd.edu
   links:
     - label: "School email"
       icon: "fas fa-fw fa-envelope-square"
@@ -126,7 +125,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/natdosan"
     - label: "Locked In"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/natdosan"
 
 # Site Footer
