@@ -42,6 +42,19 @@ author_profile: true
   </tr>
 
   <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/tokyo.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Tokyo Transit Visualization</h3>
+      <strong>Nathaniel del Rosario</strong>, Trevan Nguyen
+      <br>
+      <a href="https://natdosan.github.io/tokyo-transit">report</a> / <a href="https://github.com/natdosan/tokyo-transit">code</a>
+      <p>Interactive visualization for Tokyo's 23 wards population density and metro system</p>
+    </td>
+  </tr>
+
+  <tr>
   <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
     <img src="../assets/images/t5.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
   </td>
