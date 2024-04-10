@@ -19,7 +19,7 @@ Beyond work and academia, I enjoy art, music composition (huge Chopin, Debussy, 
 
 My calendar is embeded below. All events are tentative and subject to change.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=ndelrosx6%40gmail.com&ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=nadelrosario%40ucsd.edu&ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ---
 
