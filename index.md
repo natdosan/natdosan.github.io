@@ -6,7 +6,9 @@ classes: wide
 
 ## Hello!
 
-My name is **Nate**. I am an undergraduate student studying Data Science with a concentration in Machine Learning & Artificial Intelligence at the University of California, San Diego. In the past year, I have been an <u>Undergraduate Student Instructor</u> for data science courses, a <u>Machine Learning Intern at SDSC</u>, and a visiting student at the <u>University of California, Berkeley</u>. As of Spring 2024, I am on the market for Summer 2024 and Fall 2024 industry and research opportunities!
+My name is **Nate**. I am an undergraduate student studying Data Science with a concentration in Machine Learning & Artificial Intelligence at the <u>University of California, San Diego</u>. In the past year, I have been an <u>Undergraduate Student Instructor</u> for data science courses, a <u>Machine Learning Intern at SDSC</u>, and a visiting student at the <u>University of California, Berkeley</u>. 
+
+As of Spring 2024, I am on the market for Summer 2024 and Fall 2024 industry and research opportunities!
 
 My research interests lie in the applications of machine learning / deep learning in various domains such as <u>healthcare</u>, <u>geospatial information systems (GIS)</u>, <u>sports analytics</u>, as well as any other applications of data science to various domains. As an aspiring data scientist and machine learning engineer, my goal is to gain experience in many different interdisciplinary uses of data science and machine learning. As a result, I have tailored my projects to explore many different domains.
 
