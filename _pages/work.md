@@ -43,7 +43,7 @@ toc_sticky: true
 
   <tr>
   <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-    <img src="../assets/images/radar_vis.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    <img src="../assets/images/t5.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
   </td>
   <td style="padding:2.5%;width:75%;vertical-align:middle">
     <h3>Seq2Seq Language Translation</h3>
