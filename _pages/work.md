@@ -19,28 +19,17 @@ toc_sticky: true
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/projects/cdcgans.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+      <img src="../assets/images/nyc.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Generative Vision: Image Synthesis with Conditional DCGANs</h3>
-      <strong>Weiyue Li</strong>, Charles Ye
+      <h3>A Causal Analysis on NYC Public Transportation</h3>
+      <strong>Nathaniel del Rosario</strong>
       <br>
-      <a href="https://github.com/weiyueli7/cGANs-cDCGANs/blob/main/doc/report.pdf">report</a> / <a href="https://github.com/weiyueli7/cGANs-cDCGANs">code</a>
-      <p>Our project proposes two architectures with early or late concatenations to improve the performance of the original cGANs paper's architecture. The project involves training cDCGANs and cGANs on large-scale labeled datasets, where the models are conditioned on auxiliary information such as class labels. We also employ various metrics to evaluate the performance, and the results show that our cDCGANs model validates its effectiveness in generating high-quality and realistic images.</p>
+      <a href="https://natdosan.github.io/A_Causal_Analysis_on_Public_Transportation_in_NYC.pdf">report</a> / <a href="https://github.com/natdosan/causal-analysis-nyc-transit">code</a>
+      <p>This research explores an introductory analysis of the relationships between different transportation methods and socioeconomic factors in New York City. It involves Geospatial (GIS) data science as well as basic machine learning approaches.</p>
     </td>
   </tr>
-  <!-- <tr>
-    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/projects/dcgans.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-    </td>
-    <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>DCGANs on Image Classification Task</h3>
-      <strong>Weiyue Li</strong>, Yi Li
-      <br>
-      <a href="https://github.com/weiyueli7/DCGANs/blob/main/report.pdf">report</a> / <a href="https://github.com/weiyueli7/DCGANs">code</a>
-      <p>Our project aims to revolutionize image synthesis and classification by combining Deep Convolutional Generative Adversarial Networks (DCGANs) with Convolutional Neural Networks (CNNs). We seek to demonstrate the potential of DCGAN techniques in producing highly realistic images and achieving strong performance in image classification by utilizing these synthetic images during training.</p>
-    </td>
-  </tr> -->
+  
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
       <img src="../assets/images/projects/image-cap.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
