@@ -27,7 +27,7 @@ toc_sticky: true
     <em>DSC 10 FA23</em>
     <br>
 
-    <!-- <a href="../assets/">evaluation</a> / <a href="https://dsc-courses.github.io/dsc10-2023-fa/">website</a> -->
+    <a href="../assets/pdfs/dsc10fa23eval.pdf">evaluation</a> / <a href="https://dsc-courses.github.io/dsc10-2023-fa/">website</a>
     
     <p></p>
     <p>Based off UC Berkeley's Data 8, this course is a broad introduction to data exploration, statistical inference, and prediction. Students learn these concepts through Python, as well as the foundational ways to think like a data scientist. As a result, students become data literate, and become proficient in reading in datasets and performing operations on them for inference and discovery, mimicing the practices of real industry data scientists.</p>
@@ -51,7 +51,7 @@ toc_sticky: true
       <em>UCSD COGS 108 WI24</em>
       <br>
       
-      <a href="https://github.com/COGS108/">organization</a>
+      <a href="../assets/pdfs/cogs108wi23eval.pdf">evaluation</a> / <a href="https://github.com/COGS108/">organization</a>
       
       <p></p>
       <p>COGS 108 - Data Science in Practice - is a class offered by the Cognitive Science Department of UC San Diego, taught by Professors Bradley Voytek, Shannon Ellis, & Jason Fleischer. Here is an overview and map of the COGS 108 Organization, which hosts materials and assignments for the class. It teaches concepts taught in UCSD's DSC 80 and UC Berkeley's Data 8 & Data 100</p>
