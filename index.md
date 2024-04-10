@@ -10,7 +10,7 @@ My name is **Nate**. I am an undergraduate student studying Data Science with a 
 
 My research interests lie in the applications of machine learning / deep learning in various domains such as <u>healthcare</u>, <u>geospatial information systems (GIS)</u>, <u>sports analytics</u>, as well as any other applications of data science to various domains. As an aspiring data scientist and machine learning engineer, my goal is to gain experience in many different interdisciplinary uses of data science and machine learning. As a result, I have tailored my projects to explore many different domains.
 
-Beyond work and academia, I enjoy art, music composition (huge Chopin, Debussy, Monet, Nara, and Murakami fan), cafe hopping, and travelling (my extensive Google Maps lists available upon request :D)
+Beyond work and academia, I enjoy art, music composition (huge Chopin, Debussy, Monet, Nara, and Murakami fan), cafe hopping, travelling (my extensive Google Maps lists available upon request :D), and language learning (中国，日本語, Français)
 
 ---
 
