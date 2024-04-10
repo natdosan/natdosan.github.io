@@ -15,7 +15,7 @@ toc_sticky: true
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
-<tr>
+  <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
     <img src="../assets/images/data8.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
@@ -32,6 +32,7 @@ toc_sticky: true
     <p></p>
     <p>Based off UC Berkeley's Data 8, this course is a broad introduction to data exploration, statistical inference, and prediction. Students learn these concepts through Python, as well as the foundational ways to think like a data scientist. As a result, students become data literate, and become proficient in reading in datasets and performing operations on them for inference and discovery, mimicing the practices of real industry data scientists.</p>
     </td>
+  </tr>
 </table>
 
 
