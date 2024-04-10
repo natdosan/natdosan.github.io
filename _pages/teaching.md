@@ -30,7 +30,7 @@ toc_sticky: true
     <a href="../assets/pdfs/dsc10fa23eval.pdf">evaluation</a> / <a href="https://dsc-courses.github.io/dsc10-2023-fa/">website</a>
     
     <p></p>
-    <p>Based off UC Berkeley's Data 8, this course is a broad introduction to data exploration, statistical inference, and prediction. Students learn these concepts through Python, as well as the foundational ways to think like a data scientist. As a result, students become data literate, and become proficient in reading in datasets and performing operations on them for inference and discovery, mimicing the practices of real industry data scientists.</p>
+    <p>Based off UC Berkeley's Data 8, this course is a broad introduction to data exploration, statistical inference, and prediction. Students learn these concepts through Python, as well as the foundational ways to think like a data scientist. As a result, students become data literate, and become proficient in reading in datasets and performing operations on them for inference and discovery, mimicking the practices of real industry data scientists.</p>
     </td>
   </tr>
 </table>
