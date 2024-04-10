@@ -15,8 +15,7 @@ author_profile: false
 <div class="section">
   <h2>2024</h2>
   <div class="position">
-    <div class="title">Undergraduate Student Instructor</div>
-    <div class="company">University of California, San Diego</div>
+    <div class="title">University of California, San Diego - Undergraduate Student Instructor</div>
     <div class="location">La Jolla</div>
   </div>
 </div>
@@ -24,35 +23,35 @@ author_profile: false
 <div class="section">
   <h2>2023</h2>
   <div class="position">
-    <div class="title">Undergraduate Student Instructor</div>
-    <div class="company">Hacioglu Data Science Institute</div>
+    <div class="title">Hacioglu Data Science Institute - Undergraduate Student Instructor</div>
     <div class="location">La Jolla</div>
+    <br>
   </div>
   
   <div class="position">
-    <div class="title">Machine Learning Engineer Intern</div>
-    <div class="company">San Diego Supercomputer Center</div>
+    <div class="title">San Diego Supercomputer Center - Machine Learning Engineer Intern</div>
     <div class="location">La Jolla</div>
+    <br>
   </div>
 
   <div class="position">
-    <div class="title">Data Science Apprentice</div>
-    <div class="company">Deloitte</div>
+    <div class="title">Deloitte - Data Science Apprentice</div>
     <div class="location">Remote</div>
+    <br>
   </div>
 
   <div class="position">
-    <div class="title">Data Science Intern</div>
-    <div class="company">Chan Zuckerberg Biohub</div>
+    <div class="title">Chan Zuckerberg Biohub - Data Science Intern</div>
     <div class="location">Remote</div>
+    <br>
   </div>
 </div>
 
 <div class="section">
   <h2>2022</h2>
   <div class="position">
-    <div class="title">Data Science Intern</div>
-    <div class="company">Chan Zuckerberg Biohub</div>
+    <div class="title">Chan Zuckerberg Biohub - Data Science Intern</div>
     <div class="location">San Francisco</div>
+    <br>
   </div>
 </div>
