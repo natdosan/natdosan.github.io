@@ -26,7 +26,8 @@ toc_sticky: true
     <br>
     <em>DSC 10 FA23</em>
     <br>
-
+    My responsibilities consisted of building and releasing weekly labs and homeworks, beta testing Exams and Homeworks, holding weekly office hours, and proctoring exams and quizzes.
+    <br>
     <a href="../assets/pdfs/dsc10fa23eval.pdf">evaluation</a> / <a href="https://dsc-courses.github.io/dsc10-2023-fa/">website</a>
     
     <p></p>
@@ -51,7 +52,8 @@ toc_sticky: true
       <br>
       <em>UCSD COGS 108 WI24</em>
       <br>
-      
+      My responsibilities consisted of holding weekly office hours, co-hosting weekly sections, and other logistics.
+      <br>
       <a href="../assets/pdfs/cogs108wi23eval.pdf">evaluation</a> / <a href="https://github.com/COGS108/">organization</a>
       
       <p></p>
