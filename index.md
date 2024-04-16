@@ -12,7 +12,7 @@ My research interests lie in the applications of machine/deep learning and artif
 
 As of Spring 2024, I am on the market for Summer 2024 and Fall 2024 industry and research opportunities!
 
-[comment]: # I am currently researching the fine-tuning LLMs for spatial information as well as investigating the causal relationships between different geospatial and socioeconomic factors, supervised by [Professor Ilya Zaslavsky](https://www.researchgate.net/profile/Ilya-Zaslavsky)
+<!--- I am currently researching the fine-tuning LLMs for spatial information as well as investigating the causal relationships between different geospatial and socioeconomic factors, supervised by [Professor Ilya Zaslavsky](https://www.researchgate.net/profile/Ilya-Zaslavsky)--->
 
 Beyond work and academia, I enjoy art, music composition (huge Chopin, Debussy, Monet, Nara, and Murakami fan), cafe hopping & travelling (my extensive Google Maps lists available upon request :D), and language learning (中国,日本語, Français)
 
