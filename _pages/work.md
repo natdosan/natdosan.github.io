@@ -23,7 +23,7 @@ author_profile: true
       <h3>A Causal Analysis on NYC Public Transportation</h3>
       <strong>Nathaniel del Rosario</strong>
       <br>
-      <a href="https://natdosan.github.io/A_Causal_Analysis_on_Public_Transportation_in_NYC.pdf">report</a> / <a href="https://github.com/natdosan/causal-analysis-nyc-transit">code</a>
+      <a href="https://natdosan.github.io/A_Causal_Analysis_on_Public_Transportation_in_NYC.pdf">report</a> / code upon request
       <p>This research explores an introductory analysis of the relationships between different transportation methods and socioeconomic factors in New York City. It involves Geospatial (GIS) data science as well as basic machine learning approaches.</p>
     </td>
   </tr>
