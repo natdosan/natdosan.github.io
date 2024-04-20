@@ -18,6 +18,7 @@ author_profile: false
   <div class="position">
     <div class="title">Hacioglu Data Science Institute - Undergraduate Researcher</div>
     <div class="location">La Jolla</div>
+    <br>
   </div>
   
   <div class="position">
