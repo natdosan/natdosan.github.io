@@ -11,6 +11,7 @@ author_profile: false
 # toc_sticky: true
 ---
 <a href="../assets/pdfs/CV.pdf">CV</a>
+<a href="https://natdosan.github.io/2024_Resume.pdf">Resume</a>
 
 <div class="section">
   <h2>2024</h2>
