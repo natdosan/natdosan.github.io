@@ -16,6 +16,11 @@ author_profile: false
 <div class="section">
   <h2>2024</h2>
   <div class="position">
+    <div class="title">Hacioglu Data Science Institute - Undergraduate Researcher</div>
+    <div class="location">La Jolla</div>
+  </div>
+  
+  <div class="position">
     <div class="title">University of California, San Diego - Undergraduate Student Instructor</div>
     <div class="location">La Jolla</div>
   </div>
