@@ -10,7 +10,7 @@ author_profile: false
 # toc_icon: "book"
 # toc_sticky: true
 ---
-<a href="https://natdosan.github.io/2024_resume.pdf">CV</a>
+<a href="../assets/pdfs/CV.pdf">CV</a>
 
 <div class="section">
   <h2>2024</h2>
