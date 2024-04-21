@@ -12,7 +12,7 @@ My research interests lie in the applications of machine/deep learning and artif
 
 As of Spring 2024, I am on the market for Summer 2024 and Fall 2024 industry and research opportunities!
 
-<!--- Currently, I am researching the fine-tuning LLMs for spatial information as well as investigating the causal relationships between different geospatial and socioeconomic factors, supervised by [Professor Ilya Zaslavsky](https://www.researchgate.net/profile/Ilya-Zaslavsky). I am also fortunate enough to receive mentorship from Professor Julie Wartell on another ML/GIS application-based research project.--->
+Currently, I am researching the fine-tuning of LLMs for spatial information as well as investigating the causal relationships between different geospatial and socioeconomic factors, supervised by Professor [Ilya Zaslavsky](https://www.researchgate.net/profile/Ilya-Zaslavsky). I am also fortunate enough to receive mentorship from Professor [Julie Wartell](https://jwartell.ucsd.edu/) on another ML/GIS application-based research project.
 
 In the past year, I have been an <u>Undergraduate Student Instructor</u> for data science courses serving ~1200 students, led various machine learning projects for the [Data Science Society @ UCSD](https://www.ds3ucsd.com/), a <u>Machine Learning Intern</u> at [SDSC](https://www.sdsc.edu/), and a visiting student at the [University of California, Berkeley](https://eecs.berkeley.edu/). 
 
