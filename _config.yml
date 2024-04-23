@@ -20,7 +20,7 @@ title                    : "Nathaniel del Rosario"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nate"
-description              : "I love Data Science (no cap)"
+description              : " "
 url                      : "https://natdosan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "natdosan/natdosan.github.io"
@@ -121,7 +121,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/natdosan"
-    - label: "LockedIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/natdosan"
 
