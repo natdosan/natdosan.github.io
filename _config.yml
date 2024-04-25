@@ -24,7 +24,7 @@ description              : " "
 url                      : "https://natdosan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "natdosan/natdosan.github.io"
-teaser                   :  "/assets/images/bio-image.png"
+teaser                   :  "/assets/images/bio-image.png" # get an outdoors picture or something that shows I do stuff outside of work
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -106,24 +106,25 @@ analytics:
 author:
   name             : "Nathaniel del Rosario"
   avatar           : "/assets/images/bio-image.jpg"
-  bio              : "Undergraduate Student at UCSD"
+  bio              : "Aspiring Data Scientist"
   location         : ".isin(['San Francisco', 'La Jolla', 'NYC', 'Tokyo', 'Shanghai']) "
   links:
-    - label: "School email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nadelrosario@ucsd.edu"
-    - label: "School email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:natdosan@berkeley.edu"
-    - label: "Personal email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:natdosana@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/natdosan"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/natdosan"
+    - label: "School email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:nadelrosario@ucsd.edu"
+#    - label: "School email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:natdosan@berkeley.edu"
+    - label: "Personal email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:natdosana@gmail.com"
+
 
 # Site Footer
 footer:
