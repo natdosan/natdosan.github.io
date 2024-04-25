@@ -34,8 +34,9 @@ author_profile: false
 <div class="section">
   <h2>2023</h2>
   <div class="position">
+    <div class="title">Hacioglu Data Science Institute - Instructional Assistant</div>****
     <ul class="experience">
-        <li>Helping teach data science courses for 700+ students</li>
+        <li>Helping teach data science courses for 500+ students</li>
     </ul>
     <br>
   </div>
