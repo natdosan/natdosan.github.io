@@ -11,45 +11,56 @@ author_profile: false
 # toc_sticky: true
 ---
 <a href="../assets/pdfs/CV.pdf">CV</a>
-<a href="https://natdosan.github.io/2024_Resume.pdf">Resume</a>
+<!-- <a href="https://natdosan.github.io/2024_Resume.pdf">Resume</a> -->
 
 <div class="section">
   <h2>2024</h2>
   <div class="position">
-    <div class="title">Hacioglu Data Science Institute - Undergraduate Researcher</div>
-    <div class="location">La Jolla</div>
+    <div class="title">Hacioglu Data Science Institute - Student Researcher</div>
+    <ul class="experience">
+        <li>Making LLM's more robust for specific Geospatial use cases</li>
+    </ul>
     <br>
   </div>
   
   <div class="position">
-    <div class="title">University of California, San Diego - Undergraduate Student Instructor</div>
-    <div class="location">La Jolla</div>
+    <div class="title">University of California, San Diego - Instructional Assistant</div>
+    <ul class="experience">
+        <li>Helping teach data science courses for 700+ students</li>
+    </ul>
   </div>
 </div>
 
 <div class="section">
   <h2>2023</h2>
   <div class="position">
-    <div class="title">Hacioglu Data Science Institute - Undergraduate Student Instructor</div>
-    <div class="location">La Jolla</div>
+    <ul class="experience">
+        <li>Helping teach data science courses for 700+ students</li>
+    </ul>
     <br>
   </div>
   
   <div class="position">
     <div class="title">San Diego Supercomputer Center - Machine Learning Engineer Intern</div>
-    <div class="location">La Jolla</div>
+    <ul class="experience">
+        <li>Built a recommender system that uses reinforcement learning to adjust & improve recommendations</li>
+    </ul>
     <br>
   </div>
 
   <div class="position">
     <div class="title">Deloitte - Data Science Apprentice</div>
-    <div class="location">Remote</div>
+    <ul class="experience">
+        <li>Identified significant factors that lead to drug abuse among young adults</li>
+    </ul>
     <br>
   </div>
 
   <div class="position">
     <div class="title">Chan Zuckerberg Biohub - Data Science Intern</div>
-    <div class="location">Remote</div>
+    <ul class="experience">
+        <li>Designed a CRISPR screen query tool</li>
+    </ul>
     <br>
   </div>
 </div>
@@ -58,7 +69,9 @@ author_profile: false
   <h2>2022</h2>
   <div class="position">
     <div class="title">Chan Zuckerberg Biohub - Data Science Intern</div>
-    <div class="location">San Francisco</div>
+    <ul class="experience">
+        <li>Designed a CRISPR screen comparison and visualization tool - Infectious Disease Team</li>
+    </ul>
     <br>
   </div>
 </div>
