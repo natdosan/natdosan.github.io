@@ -12,7 +12,7 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [CSE 152A - Computer Vision](https://ucsd-cse-152.github.io/FA20/schedule.html)
 * [CSE 158 - Recommender Systems](https://cseweb.ucsd.edu/classes/fa23/cse258-a/)
 * [DSC 100 - Relational Databases](https://kshannon.github.io/ucsd-dsc100/)
-* [DSC 102 - Cloud Computing & Distributed Systems](https://dsc-courses.github.io/dsc102-2023-sp/)
+* [DSC 102 - Cloud Computing & Distributed Systems](https://dsc-courses.github.io/dsc102-2023-sp/) [Notes](https://purrfect-zinc-f80.notion.site/DSC-102-Notes-a1c1d75786d6442eb22af3667f6d800c?pvs=4)
 * [DSC 170 - Spatial Data Science](https://sites.google.com/ucsd.edu/dsc-170-winter-2023/syllabus?authuser=0) [Notes](https://purrfect-zinc-f80.notion.site/DSC-170-Notes-f9da860424604dd7981c1f074a990edc?pvs=4)
 
 * [CS 182 - Deep Learning](https://inst.eecs.berkeley.edu/~cs182/sp23/)
