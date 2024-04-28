@@ -26,6 +26,7 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 
 ## Organizations
 * [Hacioglu Institute of Data Science](https://dsc-courses.github.io/)
+* [Berkeley Institute of Data Science](https://bids.berkeley.edu/)
 * [BAIR](https://bair.berkeley.edu/blog/?refresh=1)
 * [Launchpad](https://launchpad.berkeley.edu/projects/)
 * [ML@Berkeley](https://ml.berkeley.edu/)
