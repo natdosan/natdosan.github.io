@@ -13,7 +13,8 @@ As an aspiring data scientist and machine learning engineer, my strengths lie in
 Currently, I am researching the usage of Retrieval-Augmented Generation for making LLM's more robust to geospatial information, advised by Professor [Ilya Zaslavsky](https://www.researchgate.net/profile/Ilya-Zaslavsky). I am also fortunate enough to receive mentorship from Professor [Julie Wartell](https://jwartell.ucsd.edu/) on another ML/GIS application-based research project.
 
 ## News
-- As of Spring 2024, I open to Summer 2024 and Fall 2024 industry and research opportunities!
+- As of Summer 2024, I open to Fall 2024 and Winter/Spring 2025 industry and research opportunities!
+<!-- 2024-06 - Joined [Bio-Rad](https://www.bio-rad.com/) as a Bioinformatics Intern -->
 - 2023-09 - Joined the Hacioglu Data Science Institute as an Instructional Assistant
 - 2023-06 - Joined [San Diego Supercomputer Center](https://www.sdsc.edu/) as a Machine Learning Intern
 - 2023-06 - Enrolled as visiting student at UC Berkeley
