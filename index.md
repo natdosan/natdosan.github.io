@@ -14,7 +14,7 @@ Currently, I am researching the usage of Retrieval-Augmented Generation for maki
 
 ## News
 - As of Summer 2024, I open to Fall 2024 and Winter/Spring 2025 industry and research opportunities!
-<!-- 2024-06 - Joined [Bio-Rad](https://www.bio-rad.com/) as a Bioinformatics Intern -->
+- 2024-06 - Joined [Bio-Rad](https://www.bio-rad.com/) as a Bioinformatics Intern -->
 - 2023-09 - Joined the Hacioglu Data Science Institute as an Instructional Assistant
 - 2023-06 - Joined [San Diego Supercomputer Center](https://www.sdsc.edu/) as a Machine Learning Intern
 - 2023-06 - Enrolled as visiting student at UC Berkeley
