@@ -14,14 +14,14 @@ Currently, I am researching the usage of Retrieval-Augmented Generation for maki
 
 ## News
 - As of Summer 2024, I open to Fall 2024 and Winter/Spring 2025 industry and research opportunities!
-- 2024-06 - Joined [Bio-Rad](https://www.bio-rad.com/) as a Bioinformatics Intern -->
+- 2024-06 - Joined [Bio-Rad](https://www.bio-rad.com/) as a Bioinformatics Intern
 - 2023-09 - Joined the Hacioglu Data Science Institute as an Instructional Assistant
 - 2023-06 - Joined [San Diego Supercomputer Center](https://www.sdsc.edu/) as a Machine Learning Intern
 - 2023-06 - Enrolled as visiting student at UC Berkeley
 - 2022-06 - Joined [Chan Zuckerburg Biohub](https://www.czbiohub.org/) as a Data Science Intern
 - 2022-04 - accepted into UC Berkeley, UCSD (committed!), UCLA
 
-Beyond work and academia, I enjoy art, music composition (huge Chopin, Debussy, Monet, Nara, and Murakami fan), cafe hopping & travelling (my extensive Google Maps lists available upon request 🙂), and language learning (中国,日本語, Français)
+Beyond work and academia, I enjoy olympic weightlifting, art, music composition (huge Chopin, Debussy, Monet, Nara, and Murakami fan), cafe hopping & travelling (my extensive Google Maps lists available upon request 🙂), and language learning (中国,日本語, Français)
 
 ---
 
@@ -37,6 +37,6 @@ My calendar is embedded below. All events are tentative and subject to change.
 
 A list of people who have helped me in my career (and more to come!)
 
-- Duo Peng, Joan Wong, Saba Nafees, Suraj Rampure, Janine Tiefenbruck, Shannon Ellis, Ryan Nakashima
+- Nathan Hendel, Richard Dannebaum, Duo Peng, Joan Wong, Saba Nafees, Suraj Rampure, Janine Tiefenbruck, Shannon Ellis, Ryan Nakashima
 - Hargen Zheng, Trevan Nguyen, Calvin Nguyen, Jacob Bolano, Rahil Shah
 - and many others :)
