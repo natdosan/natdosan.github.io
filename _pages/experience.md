@@ -15,6 +15,16 @@ author_profile: false
 
 <div class="section">
   <h2>2024</h2>
+
+   <div class="position">
+    <div class="title">Bio-Rad - Data Science & Bioinformatics Intern</div>
+    <ul class="experience">
+        <li>Built a pipeline and database for R&D</li>
+    </ul>
+    <br>
+  </div>
+
+  
   <div class="position">
     <div class="title">Hacioglu Data Science Institute - Student Researcher</div>
     <ul class="experience">
