@@ -17,9 +17,9 @@ Currently, I am researching the usage of Retrieval-Augmented Generation for maki
 - As of Fall 2024, I open to Winter/Spring 2025 industry and research opportunities!
 - 2024-10 - Capstone Project under Professor Zhiting Hu
 - 2024-06 - Joined [Bio-Rad](https://www.bio-rad.com/)
-- 2023-09 - Joined the Hacioglu Data Science Institute as an Instructional Assistant
+- 2023-09 - Joined the [Hacioglu Data Science Institute](https://datascience.ucsd.edu) as an Instructional Assistant
 - 2023-06 - Joined [San Diego Supercomputer Center](https://www.sdsc.edu/) as a Machine Learning Intern
-- 2023-06 - Enrolled as visiting student at UC Berkeley
+- 2023-06 - Enrolled as visiting student at [UC Berkeley](https://www.berkeley.edu/)
 - 2022-06 - Joined [Chan Zuckerburg Biohub](https://www.czbiohub.org/) as a Data Science Intern
 - 2022-04 - accepted into UC Berkeley, UCSD (committed!), UCLA
 
