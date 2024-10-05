@@ -9,11 +9,13 @@ classes: wide
 I'm **Nate**, currently pursuing a Bachelor's in Data Science with a concentration in Machine Learning & Artificial Intelligence at the [University of California, San Diego](https://datascience.ucsd.edu/). 
 
 As an aspiring data scientist and machine learning engineer, my strengths lie in bridging the harmonious intersection between domains and machine learning and artificial intelligence (ML / AI). Consequently, my research interests primarily center around increasing robustness of ML techniques for sustainability and different interdisciplinary applications of data science and machine learning, which I have explored through projects in [computer vision](https://natdosan.github.io/exploringcnn.pdf), [LLM's](/assets/pdfs/CSE_151B___PA5___Report.pdf),[geospatial information systems (GIS)](https://natdosan.github.io/A_Causal_Analysis_on_Public_Transportation_in_NYC.pdf), and <u>bioinformatics / neuroscience</u>. 
-
+<!--
 Currently, I am researching the usage of Retrieval-Augmented Generation for making LLM's more robust to geospatial information, advised by Professor [Ilya Zaslavsky](https://www.researchgate.net/profile/Ilya-Zaslavsky). I am also fortunate enough to receive mentorship from Professor [Julie Wartell](https://jwartell.ucsd.edu/) on another ML/GIS application-based research project.
+-->
 
 ## News
-- As of Summer 2024, I open to Fall 2024 and Winter/Spring 2025 industry and research opportunities!
+- As of Fall 2024, I open to Winter/Spring 2025 industry and research opportunities!
+- 2024-10 - Capstone Project under Professor Zhiting Hu
 - 2024-06 - Joined [Bio-Rad](https://www.bio-rad.com/)
 - 2023-09 - Joined the Hacioglu Data Science Institute as an Instructional Assistant
 - 2023-06 - Joined [San Diego Supercomputer Center](https://www.sdsc.edu/) as a Machine Learning Intern
