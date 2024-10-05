@@ -1,3 +1,16 @@
+---
+layout: single
+# title: "Archive"
+permalink: /archive/
+comments: true
+author_profile: true
+# classes: wide
+# toc: true
+# toc_label: "By Categories"
+# toc_icon: "book"
+# toc_sticky: true
+---
+
 
 # Digital
 ![](../assets/images/DSCF5018_Original.jpeg)
