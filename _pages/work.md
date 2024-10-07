@@ -23,7 +23,7 @@ author_profile: true
       <h3>Alzheimers Prediction through Computer Vision Applications</h3>
       <strong>Nathaniel del Rosario</strong>, Vladimer Em, Yosen Lin
       <br>
-      <a href="https://natdosan.github.io/alzheimers_prediction.ipynb">code & report</a> 
+      <a href="https://natdosan.github.io/assets/alzheimers_prediction.ipynb">code & report</a> 
       <p>An introductory attempt at replicating Alzheimers prediction through fMRI classification on a simpler dataset. We apply fundamental CNN architecture choices to improve our baseline model.</p>
     </td>
   </tr>
