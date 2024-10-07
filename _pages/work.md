@@ -17,6 +17,21 @@ author_profile: true
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/fmri.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Alzheimers Prediction through Computer Vision Applications</h3>
+      <strong>Nathaniel del Rosario, Vladimer Em, Yosen Lin</strong>
+      <br>
+      <a href="https://natdosan.github.io/alzheimers_prediction.ipynb">code & report</a> 
+      <p>An introductory attempt at replicating Alzheimers prediction through fMRI classification on a simpler dataset. We apply fundamental CNN architecture choices to improve our baseline model.</p>
+    </td>
+  </tr>
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
       <img src="../assets/images/nyc.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
