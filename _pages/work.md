@@ -11,24 +11,7 @@ author_profile: true
 # toc_sticky: true
 ---
 
-
-## Selected Projects
-
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-  <tr>
-    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/fmri.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-    </td>
-    <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Alzheimers Prediction through Computer Vision Applications</h3>
-      <strong>Nathaniel del Rosario</strong>, Vladimer Em, Yosen Lin
-      <br>
-      <a href="https://natdosan.github.io/assets/alzheimers_prediction.ipynb">code & report</a> 
-      <p>An introductory attempt at replicating Alzheimers prediction through fMRI classification on a simpler dataset. We apply fundamental CNN architecture choices to improve our baseline model.</p>
-    </td>
-  </tr>
-
-
+## Research
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
@@ -40,6 +23,22 @@ author_profile: true
       <br>
       <a href="https://natdosan.github.io/A_Causal_Analysis_on_Public_Transportation_in_NYC.pdf">report</a> / code upon request
       <p>This research explores an introductory analysis of the relationships between different transportation methods and socioeconomic factors in New York City. It involves Geospatial (GIS) data science as well as basic machine learning approaches.</p>
+    </td>
+  </tr>
+
+
+## Selected Projects
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/fmri.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Alzheimers Prediction through Computer Vision Applications</h3>
+      <strong>Nathaniel del Rosario</strong>, Vladimer Em, Yosen Lin
+      <br>
+      <a href="https://natdosan.github.io/assets/alzheimers_prediction.ipynb">code & report</a> 
+      <p>An introductory attempt at replicating Alzheimers prediction through fMRI classification on a simpler dataset. We apply fundamental CNN architecture choices to improve our baseline model.</p>
     </td>
   </tr>
 
