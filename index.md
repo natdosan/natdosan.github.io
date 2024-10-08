@@ -8,7 +8,7 @@ classes: wide
 
 I'm **Nate**, currently pursuing a Bachelor's in Data Science with a concentration in Machine Learning & Artificial Intelligence at the [University of California, San Diego](https://datascience.ucsd.edu/). 
 
-***[Resume / CV]("assets/pdfs/CV.pdf")***
+***[Resume / CV](assets/pdfs/CV.pdf)***
 
 As an aspiring data scientist and machine learning engineer, my strengths lie in bridging the harmonious intersection between domains and machine learning and artificial intelligence (ML / AI). Consequently, my research interests primarily center around increasing robustness of ML techniques for sustainability and different interdisciplinary applications of data science and machine learning, which I have explored through projects in [computer vision](https://natdosan.github.io/exploringcnn.pdf), [LLM's](/assets/pdfs/CSE_151B___PA5___Report.pdf), [geospatial information systems (GIS)](https://natdosan.github.io/A_Causal_Analysis_on_Public_Transportation_in_NYC.pdf), and industry experience in applications for <u>bioinformatics, biotech, and healthcare</u>. 
 <!--
