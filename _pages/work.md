@@ -29,10 +29,11 @@ toc_sticky: true
 </table>
 
 
-
 ## Selected Projects
 
 ### AI / ML
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
@@ -88,7 +89,6 @@ toc_sticky: true
 
 ### Healthcare
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
       <img src="../assets/images/fmri.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
