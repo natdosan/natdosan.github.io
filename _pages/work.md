@@ -12,6 +12,7 @@ toc_sticky: true
 ---
 
 ## Research
+
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
@@ -28,6 +29,9 @@ toc_sticky: true
 
 
 ## Selected Projects
+
+### AI / ML
+
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
