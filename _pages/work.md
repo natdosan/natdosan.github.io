@@ -26,6 +26,8 @@ toc_sticky: true
       <p>This research explores an introductory analysis of the relationships between different transportation methods and socioeconomic factors in New York City. It involves Geospatial (GIS) data science as well as basic machine learning approaches.</p>
     </td>
   </tr>
+</table>
+
 
 
 ## Selected Projects
