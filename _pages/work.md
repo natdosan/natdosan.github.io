@@ -86,9 +86,11 @@ toc_sticky: true
       <p>We ask the question: how do the audio features from songs, specifically Spotify Tracks compare to each other? Is there a relationship between the some of these features such as tempo correlating with danceability/energy/liveness and, if so, how are they correlated? Additionally, how can we use these features to cluster songs based on these audio tracks of songs being coverted to numeric features? We aim to answer these questions by using the Spotify API to scrape up to date trending songs and running them through a clustering pipeline to produce persona playlists.</p>
     </td>
   </tr>
+</table>
 
 ### Healthcare
 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
       <img src="../assets/images/fmri.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
