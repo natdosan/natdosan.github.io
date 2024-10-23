@@ -34,19 +34,6 @@ toc_sticky: true
 
 ### AI / ML
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-  <tr>
-    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="../assets/images/fmri.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-    </td>
-    <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Alzheimers Prediction through Computer Vision Applications</h3>
-      <strong>Nathaniel del Rosario</strong>, Vladimer Em, Yosen Lin
-      <br>
-      <a href="https://natdosan.github.io/assets/alzheimers_prediction.ipynb">code & report</a> 
-      <p>An introductory attempt at replicating Alzheimers prediction through fMRI classification on a simpler dataset. We apply fundamental CNN architecture choices to improve our baseline model.</p>
-    </td>
-  </tr>
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
@@ -60,6 +47,7 @@ toc_sticky: true
       <p>Semantic Segmentation on PASCAL VOC 2007 using different CNN architectures such as UNET, ResNET 101 Transfer Learning</p>
     </td>
   </tr>
+
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
@@ -97,6 +85,22 @@ toc_sticky: true
       <br>
       <a href="https://github.com/natdosan/Spotify-Persona-Clustering">code</a>
       <p>We ask the question: how do the audio features from songs, specifically Spotify Tracks compare to each other? Is there a relationship between the some of these features such as tempo correlating with danceability/energy/liveness and, if so, how are they correlated? Additionally, how can we use these features to cluster songs based on these audio tracks of songs being coverted to numeric features? We aim to answer these questions by using the Spotify API to scrape up to date trending songs and running them through a clustering pipeline to produce persona playlists.</p>
+    </td>
+  </tr>
+
+### Healthcare
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/fmri.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Alzheimers Prediction through Computer Vision Applications</h3>
+      <strong>Nathaniel del Rosario</strong>, Vladimer Em, Yosen Lin
+      <br>
+      <a href="https://natdosan.github.io/assets/alzheimers_prediction.ipynb">code & report</a> 
+      <p>An introductory attempt at replicating Alzheimers prediction through fMRI classification on a simpler dataset. We apply fundamental CNN architecture choices to improve our baseline model.</p>
     </td>
   </tr>
 
