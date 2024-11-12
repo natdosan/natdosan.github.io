@@ -1,5 +1,7 @@
-Nathaniel del Rosario
-nadelrosario@ucsd.edu
+## Nathaniel del Rosario
+
+### nadelrosario@ucsd.edu
+
 B06 - Zhiting Hu
 
 **What is the most interesting topic covered in your domain this quarter?**
