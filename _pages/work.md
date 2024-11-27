@@ -26,6 +26,20 @@ toc_sticky: true
       <p>This research explores an introductory analysis of the relationships between different transportation methods and socioeconomic factors in New York City. It involves Geospatial (GIS) data science as well as basic machine learning approaches.</p>
     </td>
   </tr>
+
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <!-- <img src="../assets/images/nyc.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+      -->
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Multi-Modal LLM Reasoning Improvements</h3>
+      <strong>Nathaniel del Rosario</strong>, Zihan Liu, Trevan Nguyen, Aaryan Agrawal, Samuel Zhang, Shibo Hao, Zhou Kun, Zhiting Hu
+      <br>
+     <a>report in draft</a> /  <a href="https://github.com/Lancelot39/mm-reasoners">code</a>
+      <p>Fall 2024. We suggest novel multi-modal reasoning improvements to small-medium sized LLMs through applying different state of the art methologies to existing models.</p>
+    </td>
+  </tr>
 </table>
 
 
