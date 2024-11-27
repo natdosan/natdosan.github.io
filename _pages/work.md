@@ -34,7 +34,7 @@ toc_sticky: true
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Multi-Modal LLM Reasoning Improvements</h3>
-      <strong>Nathaniel del Rosario</strong>, Zihan Liu, Trevan Nguyen, Aaryan Agrawal, Samuel Zhang, Shibo Hao, Zhou Kun, Zhiting Hu
+      <strong>Nathaniel del Rosario</strong>, Zihan Liu, Trevan Nguyen, Aaryan Agrawal, Samuel Zhang, Shibo Hao, Kun Zhou, Zhiting Hu
       <br>
      <a>report in draft</a> /  <a href="https://github.com/Lancelot39/mm-reasoners">code</a>
       <p>Fall 2024. We suggest novel multi-modal reasoning improvements to small-medium sized LLMs through applying different state of the art methologies to existing models.</p>
