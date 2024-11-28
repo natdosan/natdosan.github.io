@@ -28,7 +28,7 @@ toc_sticky: true
     <br>
     My responsibilities consist of building and releasing weekly labs and projects, holding weekly office hours.
     <br>
-    <a href="https://dsc-courses.github.io/dsc106-wi24/">website</a>
+    <a>evaluation available after quarter</a> / <a href="https://dsc-courses.github.io/dsc106-wi24/">website</a>
     <p></p>
   </tr>
 
