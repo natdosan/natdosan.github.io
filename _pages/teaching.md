@@ -71,10 +71,8 @@ toc_sticky: true
       My responsibilities consisted of holding weekly office hours, co-hosting weekly sections, and other logistics.
       <br>
       <a href="../assets/pdfs/cogs108wi23eval.pdf">evaluation</a> / <a href="https://github.com/COGS108/">organization</a>
-      
       <p></p>
       <p>COGS 108 - Data Science in Practice - is a class offered by the Cognitive Science Department of UC San Diego, taught by Professors Bradley Voytek, Shannon Ellis, & Jason Fleischer. Here is an overview and map of the COGS 108 Organization, which hosts materials and assignments for the class. It teaches concepts taught in UCSD's DSC 80 and UC Berkeley's Data 8 & Data 100</p>
-
     </td>
   </tr>
  
