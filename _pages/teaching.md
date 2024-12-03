@@ -33,6 +33,8 @@ toc_sticky: true
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
     <img src="../assets/images/data8.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
+  </tr>
+  <tr>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
     <h3>Principles of Data Science</h3>
     <br>
