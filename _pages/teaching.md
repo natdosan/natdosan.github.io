@@ -13,41 +13,41 @@ toc_sticky: true
 
 #### Data Science
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-
+<table style="width:100%; border:0px; border-spacing:0px; border-collapse:separate; margin:auto;">
   <tr>
-    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-    <img src="../assets/images/data8.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+    <td style="padding:2.5%; width:25%; vertical-align:middle; min-width:120px;">
+      <img src="../assets/images/data8.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
-    <td style="padding:2.5%;width:75%;vertical-align:middle">
-    <h3>Data Visualization</h3>
-    <br>
-    Advised by Sam Lau
-    <br>
-    <em>DSC 106 WI25</em>
-    <br>
-    My responsibilities consist of building and releasing weekly labs and projects, holding weekly office hours.
-    <br>
-    <a>evaluation available after quarter</a> / <a href="https://dsc-courses.github.io/dsc106-wi24/">website</a>
-    <p></p>
-    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-    <img src="../assets/images/data8.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+    <td style="padding:2.5%; width:75%; vertical-align:middle;">
+      <h3>Data Visualization</h3>
+      <p>
+        Advised by Sam Lau<br>
+        <em>DSC 106 WI25</em><br>
+        My responsibilities consist of building and releasing weekly labs and projects, holding weekly office hours.<br>
+        <a href="#">Evaluation available after quarter</a> / 
+        <a href="https://dsc-courses.github.io/dsc106-wi24/">Website</a>
+      </p>
     </td>
   </tr>
-  
   <tr>
-    <td style="padding:2.5%;width:75%;vertical-align:middle">
-    <h3>Principles of Data Science</h3>
-    <br>
-    Advised by Suraj Rampure, Janine Tiefenbruck, Rod Albuyeh
-    <br>
-    <em>DSC 10 FA23</em>
-    <br>
-    My responsibilities consisted of building and releasing weekly labs and homeworks, beta testing Exams and Homeworks, holding weekly office hours, and proctoring exams and quizzes.
-    <br>
-    <a href="../assets/pdfs/dsc10fa23eval.pdf">evaluation</a> / <a href="https://dsc-courses.github.io/dsc10-2023-fa/">website</a>
-    <p></p>
-    <p>Based off UC Berkeley's Data 8, this course is a broad introduction to data exploration, statistical inference, and prediction. Students learn these concepts through Python, as well as the foundational ways to think like a data scientist. As a result, students become data literate, and become proficient in reading in datasets and performing operations on them for inference and discovery, mimicking the practices of real industry data scientists.</p>
+    <td style="padding:2.5%; width:25%; vertical-align:middle; min-width:120px;">
+      <img src="../assets/images/data8.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%; width:75%; vertical-align:middle;">
+      <h3>Principles of Data Science</h3>
+      <p>
+        Advised by Suraj Rampure, Janine Tiefenbruck, Rod Albuyeh<br>
+        <em>DSC 10 FA23</em><br>
+        My responsibilities consisted of building and releasing weekly labs and homeworks, beta testing exams and homeworks, holding weekly office hours, and proctoring exams and quizzes.<br>
+        <a href="../assets/pdfs/dsc10fa23eval.pdf">Evaluation</a> / 
+        <a href="https://dsc-courses.github.io/dsc10-2023-fa/">Website</a>
+      </p>
+      <p>
+        Based off UC Berkeley's Data 8, this course is a broad introduction to data exploration, statistical inference, and prediction. 
+        Students learn these concepts through Python, as well as the foundational ways to think like a data scientist. 
+        As a result, students become data literate and proficient in reading datasets, performing operations on them for inference and discovery, 
+        mimicking the practices of real industry data scientists.
+      </p>
     </td>
   </tr>
 </table>
