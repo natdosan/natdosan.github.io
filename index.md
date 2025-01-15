@@ -6,7 +6,7 @@ classes: wide
 
 ## Hello!
 
-I am a fourth-year undergraduate student completing a Bachelor's in Data Science with a concentration in Machine Learning & Artificial Intelligence at the [University of California, San Diego](https://datascience.ucsd.edu/). I've previously spent wonderful summers interning at Bio-Rad Laboratories (2024), San Diego Supercomputer Center (2023), Chan Zuckerberg Biohub (2022). After graduation I plan to pursue a Masters in Computer / Data Science. 
+I am a fourth-year undergraduate student completing a Bachelor's in Data Science with a concentration in Machine Learning & Artificial Intelligence at the [University of California, San Diego](https://datascience.ucsd.edu/). I've previously spent wonderful summers interning at Bio-Rad Laboratories (2024), San Diego Supercomputer Center (2023), Chan Zuckerberg Biohub (2022). I am also committed to ***democratizing data science education*** and have served as an Instructinal Assistant to over 1500 students at the Hacioglu Data Science Institute. After graduation I plan to pursue a Masters in Computer / Data Science. 
 
 ***[Resume / CV](assets/pdfs/CV.pdf)***
 
