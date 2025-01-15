@@ -18,8 +18,8 @@ Currently, I am researching the usage of Retrieval-Augmented Generation for maki
 -->
 
 ## News
-- I am open to Winter/Spring/Summer 2025 industry and research opportunities!
-- 2024-12 - Applied to Graduate School!
+- I am open to Spring/Summer 2025 industry and research opportunities!
+- 2025-01 - Applied to Graduate School!
 - 2024-10 - Joined [Professor Zhiting Hu](https://zhiting.ucsd.edu/)'s group working under [Kun Zhou, Postdoc](https://lancelot39.github.io/) and [Shibo Hao, PhD](https://ber666.github.io/) (Multi-Modal LLM reasoning improvements)
 - 2024-06 - Joined [Bio-Rad](https://www.bio-rad.com/)
 - 2023-09 - Joined the [Hacioglu Data Science Institute](https://datascience.ucsd.edu) as an Instructional Assistant
