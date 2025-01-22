@@ -8,8 +8,6 @@ classes: wide
 
 I am a undergraduate graduating with a Bachelor's in Data Science with a concentration in ML/AI at the [University of California, San Diego](https://datascience.ucsd.edu/) in March. I've previously spent wonderful summers interning at Bio-Rad (2024), San Diego Supercomputer Center (2023), Chan Zuckerberg Biohub (2022). I am also committed to ***democratizing data science education*** and have served as an Instructinal Assistant to over 1500 students at the Hacioglu Data Science Institute. After graduation I plan to pursue a Masters in Computer / Data Science. 
 
-***[Resume / CV](assets/pdfs/CV.pdf)***
-
 As an aspiring data scientist, my strengths lie in bridging the harmonious intersection between domains and ML / AI. Consequently, my research interests center around decreasing Bias of ML methods and different interdisciplinary applications of data science and machine learning, which I have explored through projects in [computer vision](https://natdosan.github.io/exploringcnn.pdf), [LLM's](/assets/pdfs/CSE_151B___PA5___Report.pdf), [geospatial information systems (GIS)](https://natdosan.github.io/A_Causal_Analysis_on_Public_Transportation_in_NYC.pdf), and industry experience in applications for <u>bioinformatics, biotech, and healthcare</u>. 
 
 Outside of academia, I enjoy olympic weightlifting, art, music composition (Chopin, Debussy, Monet, Nara, and Murakami fan), coffee, interior design, and travelling (my extensive Google Maps lists available upon request 🙂), and language learning (中国, 日本語, Français).
