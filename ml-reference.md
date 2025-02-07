@@ -16,7 +16,8 @@ This [repository](https://github.com/natdosan/ML-Reference) includes Machine Lea
 Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bids.berkeley.edu/software)
 - 7/18/24 - The School of Computing, Information, and Data Science has been approved at UC San Diego. Read more about it [here](https://today.ucsd.edu/story/uc-regents-approve-new-school-of-computing-information-and-data-sciences-at-uc-san-diego)
 
-## Curated Courses & Personal Notes| **Course Name**                                    | **Links**                                                                                                         | **Notes/Textbooks**                                                                                       |
+## Curated Courses & Personal Notes
+| **Course Name**                                    | **Links**                                                                                                         | **Notes/Textbooks**                                                                                       |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Data 8                                             | [Course (FA23)](https://www.data8.org/fa23/), [Course (FA22)](https://www.data8.org/fa22/)                        | [Textbook](https://inferentialthinking.com/chapters/intro.html)                                           |
 | DSC 10                                            | [Course](https://dsc10.com/), [Offering I Staffed](https://dsc-courses.github.io/dsc10-2023-fa/)                 | [Textbook](https://inferentialthinking.com/chapters/intro.html)                                           |
@@ -35,6 +36,7 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 | DSC 102 - Cloud Computing & Distributed Systems   | [Course](https://dsc-courses.github.io/dsc102-2023-sp/)                                                         | [Notes](https://purrfect-zinc-f80.notion.site/DSC-102-Notes-a1c1d75786d6442eb22af3667f6d800c?pvs=4)       |
 | Data 101 - Data Engineering                       | [Course](https://www.data101.org/sp24/)                                                                         |                                                                                                           |
 | DSC 170 - Spatial Data Science                    | [Course](https://sites.google.com/ucsd.edu/dsc-170-winter-2023/syllabus?authuser=0)                             | [Notes](https://purrfect-zinc-f80.notion.site/DSC-170-Notes-f9da860424604dd7981c1f074a990edc?pvs=4)       |
+
 
 
 
