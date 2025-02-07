@@ -14,8 +14,8 @@ author_profile: false
 <!-- <a href="https://natdosan.github.io/2024_Resume.pdf">Resume</a> -->
 
 <div class="section">
-  <h2>2024</h2>
-
+  <h2>2025</h2>
+  
   <details>
   <summary class="title">Hacioglu Data Science Institute</summary>
     <div class="position">Instructional Assistant
@@ -25,6 +25,10 @@ author_profile: false
       <br>
     </div>
   </details>
+</div>
+
+<div class="section">
+  <h2>2024</h2>
 
   <details>
   <summary class="title">Bio-Rad</summary>
