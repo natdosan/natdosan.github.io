@@ -19,6 +19,7 @@ author_profile: false
   <details>
   <summary class="title">Hacioglu Data Science Institute</summary>
     <div class="position">
+      <div class="title">Instructional Assistant<div>
       <ul class="experience">
           <li>Helping teach data science courses for 500+ students</li>
       </ul>
