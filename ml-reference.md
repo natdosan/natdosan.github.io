@@ -1,3 +1,14 @@
+---
+layout: single
+title: "DS / ML / AI Reference"
+permalink: /teaching/
+comments: true
+author_profile: true
+# classes: wide
+toc: false
+toc_sticky: true
+---
+
 # ML-Reference
 This [repository](https://github.com/natdosan/ML-Reference) includes Machine Learning Reference Materials and links to organizations & courses (or their equivalent counterparts) I  / have taken at UC San Diego / UC Berkeley
 
