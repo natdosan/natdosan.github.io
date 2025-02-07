@@ -9,12 +9,12 @@ toc: false
 toc_sticky: true
 ---
 
-# ML-Reference
 This [repository](https://github.com/natdosan/ML-Reference) includes Machine Learning Reference Materials and links to organizations & courses (or their equivalent counterparts) I  / have taken at UC San Diego / UC Berkeley
 
 ## Important
-As of today, May 18th, 2023, the College of Computing, Data Science, and Society has been formed at UC Berkeley. 
+- 5/18/23 - The College of Computing, Data Science, and Society has been formed at UC Berkeley. 
 Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bids.berkeley.edu/software)
+- 7/18/24 - The School of Computing, Information, and Data Science has been approved at UC San Diego. Read more about it [here](https://today.ucsd.edu/story/uc-regents-approve-new-school-of-computing-information-and-data-sciences-at-uc-san-diego)
 
 ## Curated Courses & Personal Notes
 * [Data 8](https://www.data8.org/fa23/), [FA22](https://www.data8.org/fa22/) - [Textbook](https://inferentialthinking.com/chapters/intro.html)
