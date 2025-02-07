@@ -29,7 +29,7 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [CSE 151B - Deep Learning](https://sites.google.com/view/cse151b) [Notes](https://purrfect-zinc-f80.notion.site/CSE-151B-Notes-2c97fd4b582a4419870758f31b3ac72b?pvs=4)
 * [CSE 152A - Computer Vision](https://ucsd-cse-152.github.io/FA20/schedule.html)
 * [CSE 158 - Recommender Systems](https://cseweb.ucsd.edu/classes/fa23/cse258-a/)
-* [CS 182 - Deep Learning](https://inst.eecs.berkeley.edu/~cs182/sp23/)
+* [CS 182 - Deep Learning](https://cs182sp21.github.io/)
 * [CS 186 - Databases](https://cs186berkeley.net/)
 * [CS 188 - Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/su23/) [Notes](https://purrfect-zinc-f80.notion.site/CS-188-Notes-0db1181094744173ac5efdce49d563d9?pvs=4)
 * [CS 189 - Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
