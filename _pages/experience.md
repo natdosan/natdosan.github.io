@@ -101,15 +101,19 @@ author_profile: false
     </ul>
     <br>
   </div>
+  </details>
 </div>
 
 <div class="section">
   <h2>2022</h2>
-  <div class="position">
-    <div class="title">Chan Zuckerberg Biohub - Data Science Intern</div>
+  
+  <details>
+  <summary class="title">Chan Zuckerberg Biohub</summary>
+  <div class="position">Data Science Intern
     <ul class="experience">
         <li>Designed a CRISPR screen comparison and visualization tool - Infectious Disease Team</li>
     </ul>
     <br>
   </div>
+  </details>
 </div>
