@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "DS / ML / AI Reference"
-permalink: /teaching/
+permalink: /ml-reference/
 comments: true
 author_profile: true
 # classes: wide
