@@ -20,9 +20,9 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 
 ## Curated Courses & Personal Notes
 
-### Statistics, Experimentation
+### Statistics, Causal Inference, Pandas
 * [Data 8](https://www.data8.org/fa23/), [FA22](https://www.data8.org/fa22/) - [Textbook](https://inferentialthinking.com/chapters/intro.html), [Notes](https://purrfect-zinc-f80.notion.site/DSC-10-Notes-a347b64b5afc496bad4d02154c1c8e54?pvs=74)
-* [Data 100 - Principles and Techniques of Data Science](https://ds100.org/sp23/), [Josh Hug & Lisa Yan](https://ds100.org/sp22/) - [Textbook](https://learningds.org/intro.html), [Notes](https://purrfect-zinc-f80.notion.site/DSC-80-Notes-6d68e84d54c44e5c97c62a56dc9bd5e3?pvs=4)
+* [Data 100](https://ds100.org/sp23/), [Josh Hug & Lisa Yan](https://ds100.org/sp22/) - [Textbook](https://learningds.org/intro.html), [Notes](https://purrfect-zinc-f80.notion.site/DSC-80-Notes-6d68e84d54c44e5c97c62a56dc9bd5e3?pvs=4)
 * [DSC 10](https://dsc10.com/), [Offering I Staffed](https://dsc-courses.github.io/dsc10-2023-fa/)  - [Textbook](https://inferentialthinking.com/chapters/intro.html), [Notes](https://purrfect-zinc-f80.notion.site/DSC-10-Notes-a347b64b5afc496bad4d02154c1c8e54?pvs=74)
 * [DSC 80](https://dsc-courses.github.io/dsc80-2024-sp/), [Suraj Rampure](https://dsc-courses.github.io/dsc80-2024-wi/) - [Textbook](https://learningds.org/intro.html), [Notes](https://purrfect-zinc-f80.notion.site/DSC-80-Notes-6d68e84d54c44e5c97c62a56dc9bd5e3?pvs=4)
 
