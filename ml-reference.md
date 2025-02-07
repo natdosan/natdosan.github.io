@@ -6,6 +6,8 @@ comments: true
 author_profile: true
 # classes: wide
 toc: false
+toc_label: "By Departments"
+toc_icon: "chalkboard-teacher"
 toc_sticky: true
 ---
 
