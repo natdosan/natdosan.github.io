@@ -34,6 +34,7 @@ author_profile: false
     </ul>
     <br>
   </div>
+  </details>
 
   <details>
   <summary class="title">Hacioglu Data Science Institute</summary>
@@ -43,6 +44,7 @@ author_profile: false
     </ul>
     <br>
   </div>
+  </details>
 
   <details>
   <summary class="title">University of California, San Diego</summary>
@@ -51,7 +53,9 @@ author_profile: false
         <li>Helping teach data science courses for 700+ students</li>
     </ul>
   </div>
+  </details>
 </div>
+
 
 <div class="section">
   <h2>2023</h2>
