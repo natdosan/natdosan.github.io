@@ -59,33 +59,43 @@ author_profile: false
 
 <div class="section">
   <h2>2023</h2>
-  
+
+  <details>
+  <summary class="title">Hacioglu Data Science Institute</summary>
   <div class="position">
-    <div class="title">Hacioglu Data Science Institute - Instructional Assistant</div>
+    <div class="title">Instructional Assistant</div>
     <ul class="experience">
         <li>Helping teach data science courses for 500+ students</li>
     </ul>
     <br>
   </div>
-  
+  </details>
+
+  <details>
+  <summary class="title">San Diego Supercomputer Center</summary>
   <div class="position">
-    <div class="title">San Diego Supercomputer Center - Machine Learning Engineer Intern</div>
+    <div class="title">Machine Learning Engineer Intern</div>
     <ul class="experience">
         <li>Built a recommender system that uses reinforcement learning to adjust & improve recommendations</li>
     </ul>
     <br>
   </div>
+  </details>
 
+  <details>
+  <summary class="title">Deloitte</summary>
   <div class="position">
-    <div class="title">Deloitte - Data Science Apprentice</div>
+    <div class="title">Data Science Apprentice</div>
     <ul class="experience">
         <li>Identified significant factors that lead to drug abuse among young adults</li>
     </ul>
     <br>
   </div>
 
+  <details>
+  <summary class="title">Chan Zuckerberg Biohub</summary>
   <div class="position">
-    <div class="title">Chan Zuckerberg Biohub - Data Science Intern</div>
+    <div class="title">Data Science Intern</div>
     <ul class="experience">
         <li>Designed a CRISPR screen query tool</li>
     </ul>
