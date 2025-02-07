@@ -18,8 +18,7 @@ author_profile: false
 
   <details>
   <summary class="title">Hacioglu Data Science Institute</summary>
-    <div class="position">
-      <div class="title">Instructional Assistant<div>
+    <div class="position">Instructional Assistant
       <ul class="experience">
           <li>Helping teach data science courses for 500+ students</li>
       </ul>
@@ -29,7 +28,7 @@ author_profile: false
 
   <details>
   <summary class="title">Bio-Rad</summary>
-   <div class="position">
+   <div class="position">Data Science Intern
     <ul class="experience">
         <li>Built a pipeline and database for R&D</li>
     </ul>
@@ -39,7 +38,7 @@ author_profile: false
 
   <details>
   <summary class="title">Hacioglu Data Science Institute</summary>
-  <div class="position">
+  <div class="position">Undergraduate Researcher
     <ul class="experience">
         <li>Making LLM's more robust for specific Geospatial use cases</li>
     </ul>
@@ -49,7 +48,7 @@ author_profile: false
 
   <details>
   <summary class="title">University of California, San Diego</summary>
-  <div class="position">
+  <div class="position">Instructional Assistant
     <ul class="experience">
         <li>Helping teach data science courses for 700+ students</li>
     </ul>
