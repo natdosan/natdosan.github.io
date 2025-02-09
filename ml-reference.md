@@ -33,7 +33,7 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [CSE 158 - Recommender Systems](https://cseweb.ucsd.edu/classes/fa23/cse258-a/)
 * [CS 182 - Deep Learning](https://cs182sp21.github.io/)
 * [CS 188 - Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/su23/) [Notes](https://purrfect-zinc-f80.notion.site/CS-188-Notes-0db1181094744173ac5efdce49d563d9?pvs=4)
-* [CS 189 - Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
+* [CS 189 - Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) [Notes](https://smartspot2.github.io/assets/pdf/CS189_Lecture_Notes.pdf), [Notes](https://eecs189.org/resources.html)
 * [CS 280 - Computer Vision](https://cs280-berkeley.github.io/)
   
 ### Databases & Scalability
