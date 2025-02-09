@@ -18,6 +18,9 @@ This [repository](https://github.com/natdosan/ML-Reference) includes notes and l
 Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bids.berkeley.edu/software)
 - 7/18/24 - The School of Computing, Information, and Data Science has been approved at UC San Diego. Read more about it [here](https://today.ucsd.edu/story/uc-regents-approve-new-school-of-computing-information-and-data-sciences-at-uc-san-diego)
 
+## Interview Prep Resources
+- [Lintcode](https://www.lintcode.com/problem/?typeId=3)
+
 ## Curated Courses & Personal Notes
 
 ### Statistics, Causal Inference, Pandas
