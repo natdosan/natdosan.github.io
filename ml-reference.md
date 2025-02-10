@@ -11,7 +11,7 @@ toc_icon: "chalkboard-teacher"
 toc_sticky: true
 ---
 
-This [repository](https://github.com/natdosan/ML-Reference) includes notes and links to organizations & courses (or their equivalent counterparts) I have taken at UC San Diego / UC Berkeley.
+This [repository](https://github.com/natdosan/ML-Reference) includes notes (primarily slides) and links to organizations & courses (or their equivalent counterparts) I have taken at UC San Diego / UC Berkeley. For my own notes, see below.
 
 ## Important
 - 5/18/23 - The College of Computing, Data Science, and Society has been formed at UC Berkeley. 
