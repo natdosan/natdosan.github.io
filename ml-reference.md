@@ -20,6 +20,7 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 
 ## Interview Prep Resources
 - [Lintcode](https://www.lintcode.com/problem/?typeId=3)
+- [ML Focused Cheat Sheets](https://dev.to/heyonuoha/a-simple-machine-learning-cheat-sheet-for-cracking-the-theory-interview-gfk)
 
 ## Curated Courses & Personal Notes
 
