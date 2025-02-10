@@ -31,23 +31,23 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [DSC 80](https://dsc-courses.github.io/dsc80-2024-sp/), [WI24 (Suraj Rampure)](https://dsc-courses.github.io/dsc80-2024-wi/) - [Textbook](https://learningds.org/intro.html), [Notes](https://purrfect-zinc-f80.notion.site/DSC-80-Notes-6d68e84d54c44e5c97c62a56dc9bd5e3?pvs=4)
 
 ### Machine Learning
-* [CSE 151A - Machine Learning](https://shangjingbo1226.github.io/teaching/2023-spring-CSE151A-CSE-251A-ML) [Notes](https://purrfect-zinc-f80.notion.site/CSE-151A-Notes-9ecf18e9b1c8482a8eeb69784a098bf2)
-* [CSE 151B - Deep Learning](https://sites.google.com/view/cse151b) [Notes](https://purrfect-zinc-f80.notion.site/CSE-151B-Notes-2c97fd4b582a4419870758f31b3ac72b?pvs=4)
+* [CSE 151A - Machine Learning](https://shangjingbo1226.github.io/teaching/2023-spring-CSE151A-CSE-251A-ML) - [Notes](https://purrfect-zinc-f80.notion.site/CSE-151A-Notes-9ecf18e9b1c8482a8eeb69784a098bf2)
+* [CSE 151B - Deep Learning](https://sites.google.com/view/cse151b) - [Notes](https://purrfect-zinc-f80.notion.site/CSE-151B-Notes-2c97fd4b582a4419870758f31b3ac72b?pvs=4)
 * [CSE 152A - Computer Vision](https://ucsd-cse-152.github.io/FA20/schedule.html)
 * [CSE 158 - Recommender Systems](https://cseweb.ucsd.edu/classes/fa23/cse258-a/)
 * [CS 182 - Deep Learning](https://cs182sp21.github.io/)
-* [CS 188 - Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/su23/) [Notes](https://purrfect-zinc-f80.notion.site/CS-188-Notes-0db1181094744173ac5efdce49d563d9?pvs=4)
-* [CS 189 - Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) [Notes](https://smartspot2.github.io/assets/pdf/CS189_Lecture_Notes.pdf), [Notes](https://eecs189.org/resources.html)
+* [CS 188 - Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/su23/) - [Notes](https://purrfect-zinc-f80.notion.site/CS-188-Notes-0db1181094744173ac5efdce49d563d9?pvs=4)
+* [CS 189 - Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) - [Notes](https://smartspot2.github.io/assets/pdf/CS189_Lecture_Notes.pdf), [Notes](https://eecs189.org/resources.html)
 * [CS 280 - Computer Vision](https://cs280-berkeley.github.io/)
   
 ### Databases & Scalability
 * [DSC 100 - Relational Databases](https://kshannon.github.io/ucsd-dsc100/)
-* [DSC 102 - Cloud Computing & Distributed Systems](https://dsc-courses.github.io/dsc102-2023-sp/) [Notes](https://purrfect-zinc-f80.notion.site/DSC-102-Notes-a1c1d75786d6442eb22af3667f6d800c?pvs=4)
+* [DSC 102 - Cloud Computing & Distributed Systems](https://dsc-courses.github.io/dsc102-2023-sp/) - [Notes](https://purrfect-zinc-f80.notion.site/DSC-102-Notes-a1c1d75786d6442eb22af3667f6d800c?pvs=4)
 * [Data 101 - Data Engineering](https://www.data101.org/sp24/)
 * [CS 186 - Databases](https://cs186berkeley.net/)
 
 ### Other
-* [DSC 170 - Spatial Data Science](https://sites.google.com/ucsd.edu/dsc-170-winter-2023/syllabus?authuser=0) [Notes](https://purrfect-zinc-f80.notion.site/DSC-170-Notes-f9da860424604dd7981c1f074a990edc?pvs=4)
+* [DSC 170 - Spatial Data Science](https://sites.google.com/ucsd.edu/dsc-170-winter-2023/syllabus?authuser=0) - [Notes](https://purrfect-zinc-f80.notion.site/DSC-170-Notes-f9da860424604dd7981c1f074a990edc?pvs=4)
 
 
 ## Organizations
