@@ -1,3 +1,4 @@
+---
 layout: single
 # title: "Travel"
 permalink: /travel/
