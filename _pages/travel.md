@@ -27,6 +27,22 @@ author_profile: true
 
 ## Tokyo
 
+### Historic & Nature
+- Kyu Asakura House
+- Inokashira Park
+- Nakameguro
+
+### Food
+- Nadoya No Katte
+
+### Shopping
+- Context Tokyo
+- The Archive Store
+- Coverchord
+- 1LDK
+- Sinot
+- Kapital Legs
+
 ## Kyoto
 
 ### Historic & Nature
