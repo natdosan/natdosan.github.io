@@ -44,7 +44,11 @@ author_profile: true
 ### Food
 - Sakura Coffee and Tea House at Manou
 - (白玉京茶) Baiyujing Teahouse
+- 廿一茶仓 (hidden in Xiaohe)
 
 ### Shopping
+小河 (Xiaohe Historic Block)
+河坊街 (Hefangjie Block)
+南山路 (Nanshan Road)
 
 ## New York
