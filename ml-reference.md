@@ -86,3 +86,4 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [Parker](https://parkeraddison.com/)
 * [Hao Zhang](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAa-SsTJUM1M1QlNEWERZTVJKTFJRUzhOUk1FVjg0MC4u)
 * [Xinyang_Geng](http://young-geng.xyz/)
+* [Weiji Li](https://weijil.com/) [comment]: <> (email about hz)
