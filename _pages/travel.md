@@ -62,6 +62,7 @@ author_profile: true
 - Kazariya (open dining concept)
 - Weekender’s Coffee
 - Le Labo Kyoto
+  <img src="../assets/images/IMG_3001.JPG" alt="lelabo" style="max-width: 75%; height: auto;">
 
 ### Shopping
 - Otsu Kei
@@ -78,6 +79,8 @@ author_profile: true
   <img src="../assets/images/zjj.JPG" alt="zjj" style="max-width: 75%; height: auto;">
 
 - French Concession
+  <img src="../assets/images/IMG_2996.JPG" alt="fc" style="max-width: 75%; height: auto;">
+
 - 豫园 (Yu Garden)
 
 ### Food
