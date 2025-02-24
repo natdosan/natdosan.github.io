@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Nathaniel del Rosario"
   avatar           : "/assets/images/headshot.jpg"
-  bio              : "Aspiring Data Scientist"
+  bio              : "Data Scientist"
   location         : ".isin(['San Francisco', 'La Jolla', 'NYC', 'Tokyo', 'Shanghai']) "
   links:
     - label: "GitHub"
