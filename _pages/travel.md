@@ -1,4 +1,3 @@
-![IMG_2988 2](https://github.com/user-attachments/assets/f5741c29-ef68-4173-adea-60640e2b72a2)---
 layout: single
 # title: "Travel"
 permalink: /travel/
