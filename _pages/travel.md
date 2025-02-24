@@ -62,7 +62,7 @@ author_profile: true
 - Kazariya (open dining concept)
 - Weekender’s Coffee
 - Le Labo Kyoto
-  <img src="../assets/images/IMG_3001.JPG" alt="lelabo" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/IMG_3013.JPG" alt="lelabo" style="max-width: 75%; height: auto;">
 
 ### Shopping
 - Otsu Kei
