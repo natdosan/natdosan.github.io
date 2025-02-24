@@ -45,7 +45,7 @@ author_profile: true
   <img src="../assets/images/yunsong.JPG" alt="yunsong" style="max-width: 75%; height: auto;">
 
 - Manou Temple
-  <img src="../assets/images/manou" alt="manou" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/manou.JPG" alt="manou" style="max-width: 75%; height: auto;">
   
 - 太子湾 (Taiziwan)
 - Hu Xueyan Mansion
