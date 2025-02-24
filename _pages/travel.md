@@ -72,6 +72,8 @@ author_profile: true
 - 豫园 (Yu Garden)
 
 ### Food
+- Chagee
+- Heytea
 - 宫宴 (Gongyan)
 - 鲁迅公园 (Luxun Park - cherry blossom pond)
 - 巨鹿路 (Julu Road)
@@ -133,6 +135,8 @@ author_profile: true
 - Mono+Mono
 - Win Son
 - Konban
+- Izakaya Mew
+- nonono
 - Sorate
 - Kijitora East
 
