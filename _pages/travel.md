@@ -116,8 +116,28 @@ author_profile: true
   <img src="../assets/images/21_3.JPG" alt="21_3" style="max-width: 75%; height: auto;">
 
 ### Shopping
-小河 (Xiaohe Historic Block)
-河坊街 (Hefangjie Block)
-南山路 (Nanshan Road)
+- 小河 (Xiaohe Historic Block)
+- 河坊街 (Hefangjie Block)
+- 南山路 (Nanshan Road)
 
 ## New York
+
+### Historic & Nature
+- Noguchi Museum
+- Brooklyn Botanical Garden
+- Dumbo
+
+### Food
+- Floating Mountain
+- Puerh Brooklyn
+- Mono+Mono
+- Win Son
+- Konban
+- Sorate
+- Kijitora East
+
+### Shopping
+- Komune
+- 180 the Store
+- Ven Space
+- IF Soho
