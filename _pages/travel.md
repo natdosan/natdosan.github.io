@@ -6,7 +6,7 @@ comments: true
 author_profile: true
 # classes: wide
 ---
-
+<!--
 # Ranking 
 
 1. Kyoto
@@ -22,6 +22,7 @@ author_profile: true
 11. Manila
 12. Barcelona
 13. San Diego
+-->
 
 # Recommendations
 
@@ -47,7 +48,7 @@ author_profile: true
 
 ### Historic & Nature
 - Fushiki Jikkoku-bune
-  <img src="../assets/images/jikkokubune.JPG" alt="jikkokubune" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/jikkokubune.JPG" alt="jikkokubune" style="max-width: 100%; height: auto;">
 
 - Arashiyama
 - Sanzen-in
@@ -62,7 +63,7 @@ author_profile: true
 - Kazariya (open dining concept)
 - Weekender’s Coffee
 - Le Labo Kyoto
-  <img src="../assets/images/IMG_3013.JPG" alt="lelabo" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/IMG_3013.JPG" alt="lelabo" style="max-width: 100%; height: auto;">
 
 ### Shopping
 - Otsu Kei
@@ -73,13 +74,13 @@ author_profile: true
 
 ### Historic & Nature
 - The Bund (Casanova)
-  <img src="../assets/images/bund.JPG" alt="bund" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/bund.JPG" alt="bund" style="max-width: 100%; height: auto;">
 
 - Zhujiajiao
-  <img src="../assets/images/zjj.JPG" alt="zjj" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/zjj.JPG" alt="zjj" style="max-width: 100%; height: auto;">
 
 - French Concession
-  <img src="../assets/images/IMG_2996.JPG" alt="fc" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/IMG_2996.JPG" alt="fc" style="max-width: 100%; height: auto;">
 
 - 豫园 (Yu Garden)
 
@@ -103,18 +104,18 @@ author_profile: true
 
 ### Historic & Nature
 - 中国院子梦溪苑 (Mengxi Yuan)
-  <img src="../assets/images/mengxi.JPG" alt="mengxi" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/mengxi.JPG" alt="mengxi" style="max-width: 100%; height: auto;">
   
-  <img src="../assets/images/mengxi2.JPG" alt="mengxi2" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/mengxi2.JPG" alt="mengxi2" style="max-width: 100%; height: auto;">
 
 - 曲院风荷 (Quyuan Fenghe)
-  <img src="../assets/images/quyuan_fenghe.JPG" alt="quyuan" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/quyuan_fenghe.JPG" alt="quyuan" style="max-width: 100%; height: auto;">
 
 - 云松书舍 (Yunsong Shushe)
-  <img src="../assets/images/yunsong.JPG" alt="yunsong" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/yunsong.JPG" alt="yunsong" style="max-width: 100%; height: auto;">
 
 - Manou Temple
-  <img src="../assets/images/manou.JPG" alt="manou" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/manou.JPG" alt="manou" style="max-width: 100%; height: auto;">
   
 - 太子湾 (Taiziwan)
 - Hu Xueyan Mansion
@@ -125,11 +126,11 @@ author_profile: true
 - Sakura Coffee and Tea House at Manou
 - (白玉京茶) Baiyujing Teahouse
 - 廿一茶仓 (hidden in Xiaohe)
-  <img src="../assets/images/21.JPG" alt="21" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/21.JPG" alt="21" style="max-width: 100%; height: auto;">
   
-  <img src="../assets/images/21_2.JPG" alt="21_2" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/21_2.JPG" alt="21_2" style="max-width: 100%; height: auto;">
   
-  <img src="../assets/images/21_3.JPG" alt="21_3" style="max-width: 75%; height: auto;">
+  <img src="../assets/images/21_3.JPG" alt="21_3" style="max-width: 100%; height: auto;">
 
 ### Shopping
 - 小河 (Xiaohe Historic Block)
