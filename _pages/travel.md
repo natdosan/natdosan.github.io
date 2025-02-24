@@ -1,4 +1,4 @@
----
+![IMG_2988 2](https://github.com/user-attachments/assets/f5741c29-ef68-4173-adea-60640e2b72a2)---
 layout: single
 # title: "Travel"
 permalink: /travel/
@@ -47,9 +47,12 @@ author_profile: true
 
 ### Historic & Nature
 - Fushiki Jikkoku-bune
+  <img src="../assets/images/jikkokubune.JPG" alt="jikkokubune" style="max-width: 75%; height: auto;">
+
 - Arashiyama
 - Sanzen-in
 - Jikko-in
+- Rurikō-in 
 - Tenjuan
 
 ### Food
@@ -63,11 +66,17 @@ author_profile: true
 ### Shopping
 - Otsu Kei
 - Taiga Takahashi
+- Kapital
 
 ## Shanghai
 
 ### Historic & Nature
 - The Bund (Casanova)
+  <img src="../assets/images/bund.JPG" alt="bund" style="max-width: 75%; height: auto;">
+
+- Zhujiajiao
+  <img src="../assets/images/zjj.JPG" alt="zjj" style="max-width: 75%; height: auto;">
+
 - French Concession
 - 豫园 (Yu Garden)
 
@@ -108,6 +117,8 @@ author_profile: true
 - Hu Xueyan Mansion
 
 ### Food
+- Green Tea Restaurant Longjing
+- Luxiaozhang Chongqing Hotpot
 - Sakura Coffee and Tea House at Manou
 - (白玉京茶) Baiyujing Teahouse
 - 廿一茶仓 (hidden in Xiaohe)
