@@ -36,6 +36,7 @@ author_profile: true
 ### Historic & Nature
 - 中国院子梦溪苑 (Mengxi Yuan)
   <img src="../assets/images/mengxi.JPG" alt="mengxi" style="max-width: 75%; height: auto;">
+  
   <img src="../assets/images/mengxi2.JPG" alt="mengxi2" style="max-width: 75%; height: auto;">
 
 - 曲院风荷 (Quyuan Fenghe)
@@ -55,7 +56,9 @@ author_profile: true
 - (白玉京茶) Baiyujing Teahouse
 - 廿一茶仓 (hidden in Xiaohe)
   <img src="../assets/images/21.JPG" alt="21" style="max-width: 75%; height: auto;">
+  
   <img src="../assets/images/21_2.JPG" alt="21_2" style="max-width: 75%; height: auto;">
+  
   <img src="../assets/images/21_3.JPG" alt="21_3" style="max-width: 75%; height: auto;">
 
 ### Shopping
