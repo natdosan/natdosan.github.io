@@ -29,7 +29,45 @@ author_profile: true
 
 ## Kyoto
 
+### Historic & Nature
+- Fushiki Jikkoku-bune
+- Arashiyama
+- Sanzen-in
+- Jikko-in
+- Tenjuan
+
+### Food
+- Okutan Kiyomizu 総本家ゆどうふ 奥丹 清水 (nice dining views)
+- Yuyuza Ryokan
+- Rokujan
+- Kazariya (open dining concept)
+- Weekender’s Coffee
+- Le Labo Kyoto
+
+### Shopping
+- Otsu Kei
+- Taiga Takahashi
+
 ## Shanghai
+
+### Historic & Nature
+- The Bund (Casanova)
+- French Concession
+- 豫园 (Yu Garden)
+
+### Food
+- 宫宴 (Gongyan)
+- 鲁迅公园 (Luxun Park - cherry blossom pond)
+- 巨鹿路 (Julu Road)
+- 长乐路 (Changle Road)
+- 南京路 (Nanjing Road)
+
+### Shopping
+- 新天地 (Xintiandi)
+- The Orient Goods
+- 安福路 (Anfu Road)
+- 武康路 (Wukang Road)
+
 
 ## Hangzhou
 
