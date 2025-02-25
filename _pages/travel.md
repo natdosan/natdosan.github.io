@@ -93,6 +93,13 @@ author_profile: true
 ### Food
 - Chagee
 - Heytea
+- 来来小笼
+- 呼吸老弄堂面馆
+- 蟹珍香
+- 624changle
+- D.Orino Coffee
+- Ichiroll
+- Gathering
 - 宫宴 (Gongyan)
 - 鲁迅公园 (Luxun Park - cherry blossom pond)
 - 巨鹿路 (Julu Road)
@@ -100,6 +107,11 @@ author_profile: true
 - 南京路 (Nanjing Road)
 
 ### Shopping
+- rih.cache
+- eth0s
+- XC273
+- vessubtle
+- Autumn Sonata
 - 新天地 (Xintiandi)
 - The Orient Goods
 - 安福路 (Anfu Road)
