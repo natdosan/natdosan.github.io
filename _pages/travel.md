@@ -32,9 +32,12 @@ author_profile: true
 - Kyu Asakura House
 - Inokashira Park
 - Nakameguro
+- Nezu Museum
 
 ### Food
 - Nadoya No Katte
+- Kosoan
+- Savoy
 
 ### Shopping
 - Context Tokyo
@@ -62,6 +65,9 @@ author_profile: true
 - Rokujan
 - Kazariya (open dining concept)
 - Weekender’s Coffee
+- 温 京都御幸町 (ONN KYOTO GOKOMACH)
+- Cafe de Monca
+- Marafuku
 - Le Labo Kyoto
   <img src="../assets/images/IMG_3013.JPG" alt="lelabo" style="max-width: 100%; height: auto;">
 
