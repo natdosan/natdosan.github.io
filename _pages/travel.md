@@ -89,6 +89,8 @@ author_profile: true
   <img src="../assets/images/IMG_2996.JPG" alt="fc" style="max-width: 100%; height: auto;">
 
 - 豫园 (Yu Garden)
+- 宫宴 (Gongyan)
+- 鲁迅公园 (Luxun Park - cherry blossom pond)
 
 ### Food
 - Chagee
@@ -100,8 +102,6 @@ author_profile: true
 - D.Orino Coffee
 - Ichiroll
 - Gathering
-- 宫宴 (Gongyan)
-- 鲁迅公园 (Luxun Park - cherry blossom pond)
 - 巨鹿路 (Julu Road)
 - 长乐路 (Changle Road)
 - 南京路 (Nanjing Road)
