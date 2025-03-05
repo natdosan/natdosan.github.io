@@ -33,11 +33,11 @@ toc_sticky: true
       -->
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Multi-Modal LLM Reasoning Improvements</h3>
-      <strong>Nathaniel del Rosario</strong>, Zihan Liu, Trevan Nguyen, Aaryan Agrawal, Samuel Zhang, Shibo Hao, Kun Zhou, Zhiting Hu
+      <h3>Multi-Modal LLM Reasoning and Agent Modeling</h3>
+      <strong>Nathaniel del Rosario</strong>, Zihan Liu, Trevan Nguyen, Aaryan Agrawal, Samuel Zhang, Shibo Hao, Jorge Cheng, Zhiting Hu
       <br>
-     <a>report in draft</a> /  <a href="https://github.com/Lancelot39/mm-reasoners">code</a>
-      <p>Fall 2024. We suggest novel multi-modal reasoning improvements to small-medium sized LLMs through applying different state of the art methologies to existing models.</p>
+     <a href="https://natdosan.github.io/LLM_Reasoning.pdf">report</a> / <a href="https://natdosan.github.io/LLM_Reasoning_poster.pdf"> poster</a> / <a href="https://github.com/natdosan/llm-reasoners/tree/osworld-integration">code</a>
+      <p>Fall 2024. Ran compute v.s. scaling experiments utilizing Monte Carlo Tree Search with ChatGPT 4o, UITARS7B, Deepseek R1 models on the OSWorld and BrowserGym Benchmarks.</p>
     </td>
   </tr>
 </table>
