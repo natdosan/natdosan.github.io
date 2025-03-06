@@ -51,8 +51,7 @@ is a desktop environment for evaluating agents on operating system benchmarks su
 
 ### Implicit Search: 
 
-Agent attempts to correct its own mistakes through direct ac-
-tions, such as clicking an undo button.
+Agent attempts to correct its own mistakes through direct actions, such as clicking an undo button.
 
 - Fast and computationally cheap.
 - LLM handles recovery but often fails in complex scenarios.
