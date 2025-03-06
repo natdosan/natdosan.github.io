@@ -81,6 +81,8 @@ Uses MCTS & LLM prompting/self-evaluation to guide back-tracking and exploration
 
 Implicit vs. Explicit experiments were conducted on a subset of 106 / 50 tasks from the WebArena & OSWorld benchmarks using GPT-4o-mini and UITARs 7B / 72B respectively
 
+### BrowserGym
+
 <!--BrowserGym Inference/Compute Scaling Plots-->
 ![](/assets/images/browsergym-table.png)
 - Figure 6: Success Count with Different MCTS Parameters
@@ -91,16 +93,16 @@ Implicit vs. Explicit experiments were conducted on a subset of 106 / 50 tasks f
 ![Test Time Scaling](/assets/images/tcvci.png)
 - Figure 8: Tasks Completed v.s. Completion Iteration
 
-
+### OSWorld
 <!--OSWorld Inference/Compute Scaling Plots-->
 ![](/assets/images/test-time-scaling.png)
-- Figure 5: Test Time Scaling
+- Figure 9: 
 
 ![Test Time Scaling](/assets/images/test-time-scaling.png)
-- Figure 5: Test Time Scaling
+- Figure 10: 
 
 ![Test Time Scaling](/assets/images/test-time-scaling.png)
-- Figure 5: Test Time Scaling
+- Figure 11: 
 
 ## Discussion
 
@@ -122,3 +124,11 @@ being stuck in a poor search space is a major issue
 ### Evaluation
 
 Web/OS-based agents using LLMs show promise in automating browser tasks, but scaling inference efficiently remains a challenge. This work explores the question of how best to structure search: implicit (greedy, depth-limited) or explicit (structured exploration like MCTS). Implicit search is potentially computationally cheaper but struggles with backtracking, while explicit search enables efficient exploration but relies on resettable states, which may be impractical in real-world web environments. Experiments on 106 WebArena and 50 OSWorld tasks show explicit search achieves higher task completion rates and better environment interaction efficiency. While explicit search excels in controlled settings, implicit search remains more applicable to real-world tasks. Another aspect to consider is conducting an explicit search on an LLM world model, where the search occurs over predicted next states as opposed to the environment itself, which can potentially gain the benefits of both implicit and explicit search.
+
+## Acknowledgements
+
+Thank you to our advisor, Professor Zhiting Hu, and his two PhD students, Zhoujun Cheng and Shibo Hao
+
+## References
+
+See our formal [report.](LLM_Reasoning.pdf)
