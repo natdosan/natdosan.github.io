@@ -116,7 +116,7 @@ search depth, with cached prompt tokens helping to mitigate costs. Execution
 time closely followed token consumption trends.
 
 **Explicit Search on Environment** Performance improves with increased itera-
-tions and depth, as seen in Figure ??. Greater depth allows agents to correct
+tions and depth, as seen in Figure 7. Greater depth allows agents to correct
 suboptimal actions, increasing task success rates. However, most successful
 completions occur in early iterations, suggesting that while iterations help, depth
 is the more crucial factor. Failure cases tend to max out iterations, indicating that
