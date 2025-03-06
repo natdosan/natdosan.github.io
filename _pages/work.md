@@ -29,8 +29,7 @@ toc_sticky: true
 
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <!-- <img src="../assets/images/nyc.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-      -->
+      <img src="../assets/images/bigdfs.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
       <h3>Multi-Modal LLM Reasoning and Agent Modeling</h3>
