@@ -30,7 +30,7 @@ Large language models (LLMs) address limitations of traditional heuristic approa
 
 ### LLM-Reasoners
 
-LLM-Reasoners is a standardized, library for creating reasoning agents with a modular framework for customizing the LLM, search algorithm, search configuration, world model, and benchmark architecture. We leverage LLM-Reasoners to investigate this behavior in Monte Carlo Tree Search (MCTS) scaling experiments. 
+[LLM-Reasoners](https://www.llm-reasoners.net/) is a standardized, library for creating reasoning agents with a modular framework for customizing the LLM, search algorithm, search configuration, world model, and benchmark architecture. We leverage LLM-Reasoners to investigate this behavior in Monte Carlo Tree Search (MCTS) scaling experiments. 
 
 <!--Insert Plots-->
 ![Custom Agent Architecture via LLM-Reasoners](/assets/images/reasoners.png)
@@ -44,11 +44,11 @@ LLM-Reasoners is a standardized, library for creating reasoning agents with a mo
   
 ### BrowserGym
 
-is a web-based environment designed to evaluate web agents, functioning similarly to OpenAI Gym but for browser interactions. It processes actions as JavaScript code executed via Playwright, though to simplify the action space, predefined functions (e.g., click, fill, go back) are used to mimic human-like interactions with a keyboard and mouse. Observations returned after each action include the page’s HTML, accessibility tree (AXTree), and a screenshot. However, due to the excessive noise in raw HTML, only the AXTree is passed into the LLM context. Screenshots are also augmented with a Set of Marks (SoM)  to improve grounding for LLMs.
+[BrowserGym](https://github.com/ServiceNow/BrowserGym) is a web-based environment designed to evaluate web agents, functioning similarly to OpenAI Gym but for browser interactions. It processes actions as JavaScript code executed via Playwright, though to simplify the action space, predefined functions (e.g., click, fill, go back) are used to mimic human-like interactions with a keyboard and mouse. Observations returned after each action include the page’s HTML, accessibility tree (AXTree), and a screenshot. However, due to the excessive noise in raw HTML, only the AXTree is passed into the LLM context. Screenshots are also augmented with a Set of Marks (SoM)  to improve grounding for LLMs.
   
 ### OSWorld
 
-is a desktop environment for evaluating agents on operating system benchmarks such as Chrome, VSCode, Gimp, etc. To complete a task, a web agent must take multiple sequential actions. Errors in later steps can make a task irrecoverable without backtracking. Two primary approaches to search are considered: implicit search, where the agent itself attempts to recover from mistakes, and explicit search, where a structured algorithm like Monte Carlo Tree Search (MCTS) assists in decision-making.
+[OSWorld](https://os-world.github.io/) is a desktop environment for evaluating agents on operating system benchmark tasks such as Chrome, VSCode, Gimp, etc. To complete a task, a web agent must take multiple sequential actions. Errors in later steps can make a task irrecoverable without backtracking. Two primary approaches to search are considered: implicit search, where the agent itself attempts to recover from mistakes, and explicit search, where a structured algorithm like Monte Carlo Tree Search (MCTS) assists in decision-making.
 
 
 ### Implicit Search: 
