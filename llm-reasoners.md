@@ -81,8 +81,26 @@ Uses MCTS & LLM prompting/self-evaluation to guide back-tracking and exploration
 
 Implicit vs. Explicit experiments were conducted on a subset of 106 / 50 tasks from the WebArena & OSWorld benchmarks using GPT-4o-mini and UITARs 7B / 72B respectively
 
-- Inference/Compute Scaling Plots
+<!--BrowserGym Inference/Compute Scaling Plots-->
+![](/assets/images/browsergym-table.png)
+- Figure 6: Success Count with Different MCTS Parameters
 
+![Test Time Scaling](/assets/images/explicitenvcomparison.png)
+- Figure 7: Explicit Environment Comparison
+
+![Test Time Scaling](/assets/images/tcvci.png)
+- Figure 8: Tasks Completed v.s. Completion Iteration
+
+
+<!--OSWorld Inference/Compute Scaling Plots-->
+![](/assets/images/test-time-scaling.png)
+- Figure 5: Test Time Scaling
+
+![Test Time Scaling](/assets/images/test-time-scaling.png)
+- Figure 5: Test Time Scaling
+
+![Test Time Scaling](/assets/images/test-time-scaling.png)
+- Figure 5: Test Time Scaling
 
 ## Discussion
 
