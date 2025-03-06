@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "B06 - MULTI-MODAL LLM REASONING AND AGENT MODELING"
