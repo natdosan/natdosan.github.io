@@ -70,15 +70,30 @@ tracking and exploration, leveraging cached states and structured rollouts.
 ![Test Time Scaling](/assets/images/test-time-scaling.png)
 - Figure 4: Test Time Scaling
 
-### Scaling Considerations
+## Results
+
 Implicit vs. Explicit experiments were conducted on a subset of 106 / 50 tasks from the
 WebArena & OSWorld benchmarks using GPT-4o-mini and UITARs 7B / 72B respectively
 
-
-## Results
-
 - Inference/Compute Scaling Plots
 
+
 ## Discussion
+
+### Scaling Considerations
+
+Token Usage & Cost The total cost of the experiments was $44.63 USD, with a
+full dataset evaluation on GPT-4o estimated at $5,355.60 USD, making large-
+scale runs prohibitively expensive. Token usage increased significantly with
+search depth, with cached prompt tokens helping to mitigate costs. Execution
+time closely followed token consumption trends.
+Explicit Search on Environment Performance improves with increased itera-
+tions and depth, as seen in Figure ??. Greater depth allows agents to correct
+suboptimal actions, increasing task success rates. However, most successful
+completions occur in early iterations, suggesting that while iterations help, depth
+is the more crucial factor. Failure cases tend to max out iterations, indicating that
+being stuck in a poor search space is a major issue
+
+### Evaluation
 
 Web/OS-based agents using LLMs show promise in automating browser tasks, but scaling inference efficiently remains a challenge. This work explores the question of how best to structure search: implicit (greedy, depth-limited) or explicit (structured exploration like MCTS). Implicit search is potentially computationally cheaper but struggles with backtracking, while explicit search enables efficient exploration but relies on resettable states, which may be impractical in real-world web environments. Experiments on 106 WebArena and 50 OSWorld tasks show explicit search achieves higher task completion rates and better environment interaction efficiency. While explicit search excels in controlled settings, implicit search remains more applicable to real-world tasks. Another aspect to consider is conducting an explicit search on an LLM world model, where the search occurs over predicted next states as opposed to the environment itself, which can potentially gain the benefits of both implicit and explicit search.
