@@ -101,14 +101,14 @@ In summary, the R1-Distilled-32B model performed substantially better than both 
 In summary, the UITARS-72B model performed substantially better than both 4o-mini and 4o, and in general task success saw an increased correlation with the number of MCTS iterations and depth.
 
 <!--OSWorld Inference/Compute Scaling Plots-->
-![](/assets/images/test-time-scaling.png)
-- Figure 9: 
+![](/assets/images/uitars-depth-of-n.png)
+- Figure 9: Depth of N Scaling
 
-![Test Time Scaling](/assets/images/test-time-scaling.png)
-- Figure 10: 
+![Test Time Scaling](/assets/images/7B-scaling.png)
+- Figure 10: UITARS-7B through 15 Steps (no MCTS)
 
-![Test Time Scaling](/assets/images/test-time-scaling.png)
-- Figure 11: 
+![Test Time Scaling](/assets/images/72B-scaling.png)
+- Figure 11: UITARS-72B through 15 Steps (no MCTS)
 
 ## Discussion
 
