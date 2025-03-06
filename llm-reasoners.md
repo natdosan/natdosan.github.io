@@ -60,8 +60,7 @@ Agent attempts to correct its own mistakes through direct actions, such as click
   
 ### Explicit Search:
 
-Uses MCTS & LLM prompting/self-evaluation to guide back-
-tracking and exploration, leveraging cached states and structured rollouts.
+Uses MCTS & LLM prompting/self-evaluation to guide back-tracking and exploration, leveraging cached states and structured rollouts.
 
 - More reliable, structured decision-making.
 - Computationally expensive due to multiple rollouts and evaluations.
@@ -72,8 +71,7 @@ tracking and exploration, leveraging cached states and structured rollouts.
 
 ## Results
 
-Implicit vs. Explicit experiments were conducted on a subset of 106 / 50 tasks from the
-WebArena & OSWorld benchmarks using GPT-4o-mini and UITARs 7B / 72B respectively
+Implicit vs. Explicit experiments were conducted on a subset of 106 / 50 tasks from the WebArena & OSWorld benchmarks using GPT-4o-mini and UITARs 7B / 72B respectively
 
 - Inference/Compute Scaling Plots
 
@@ -82,12 +80,13 @@ WebArena & OSWorld benchmarks using GPT-4o-mini and UITARs 7B / 72B respectively
 
 ### Scaling Considerations
 
-Token Usage & Cost The total cost of the experiments was $44.63 USD, with a
+**Token Usage & Cost** The total cost of the experiments was $44.63 USD, with a
 full dataset evaluation on GPT-4o estimated at $5,355.60 USD, making large-
 scale runs prohibitively expensive. Token usage increased significantly with
 search depth, with cached prompt tokens helping to mitigate costs. Execution
 time closely followed token consumption trends.
-Explicit Search on Environment Performance improves with increased itera-
+
+**Explicit Search on Environment** Performance improves with increased itera-
 tions and depth, as seen in Figure ??. Greater depth allows agents to correct
 suboptimal actions, increasing task success rates. However, most successful
 completions occur in early iterations, suggesting that while iterations help, depth
