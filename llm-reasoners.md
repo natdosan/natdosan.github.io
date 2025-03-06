@@ -5,7 +5,7 @@ permalink: /llm-reasoners/
 comments: true
 author_profile: false
 classes: wide
-toc: true
+toc: false
 toc_label: "By Topics"
 toc_icon: "chalkboard-teacher"
 toc_sticky: true
