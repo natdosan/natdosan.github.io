@@ -4,7 +4,7 @@ title: "Multi-Modal LLM Reasoning and Agent Modeling (B06-2)"
 permalink: /llm-reasoners/
 comments: true
 author_profile: false
-classes: wide
+classes: small
 toc: false
 toc_label: "By Topics"
 toc_icon: "chalkboard-teacher"
