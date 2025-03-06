@@ -4,7 +4,7 @@ title: "B06 - MULTI-MODAL LLM REASONING AND AGENT MODELING"
 permalink: /llm-reasoners/
 comments: true
 author_profile: false
-classes: narrow
+classes: wide
 toc: true
 toc_label: "By Topics"
 toc_icon: "chalkboard-teacher"
