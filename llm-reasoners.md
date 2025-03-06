@@ -1,3 +1,4 @@
+<!--
 ---
 layout: single
 title: "B06 - MULTI-MODAL LLM REASONING AND AGENT MODELING"
@@ -10,6 +11,7 @@ toc_label: "By Topics"
 toc_icon: "chalkboard-teacher"
 toc_sticky: true
 ---
+-->
 
 # Multi-Modal LLM Reasoning and Agent Modeling
 
