@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "MULTI-MODAL LLM REASONING AND AGENT MODELING"
+title: "Multi-Modal LLM Reasoning and Agent Modeling (B06-2)"
 permalink: /llm-reasoners/
 comments: true
 author_profile: false
@@ -14,7 +14,7 @@ toc_sticky: true
 
 <!-- # Multi-Modal LLM Reasoning and Agent Modeling -->
 
-Aaryan Agrawal, Nathaniel del Rosario, So Hirota, Zihan Liu, Trevan Nguyen, Samual Zhang, Zhiting Hu (B06-2)
+Aaryan Agrawal, Nathaniel del Rosario, So Hirota, Zihan Liu, Trevan Nguyen, Samual Zhang, Zhiting Hu
 
 ## Overview
 
