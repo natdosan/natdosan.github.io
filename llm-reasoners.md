@@ -16,6 +16,7 @@ toc_sticky: true
 
 Aaryan Agrawal, Nathaniel del Rosario, So Hirota, Zihan Liu, Trevan Nguyen, Samual Zhang, Zhiting Hu
 
+**[Poster](LLM_Reasoning_poster.pdf)**
 <!--aaagrawal@ucsd.edu, nadelrosario@ucsd.edu, shirota@ucsd.edu, zil065@ucsd.edu, tn077@ucsd.edu, saz004@ucsd.edu, zhh019@ucsd.edu-->
 
 ## Overview
