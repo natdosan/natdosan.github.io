@@ -34,6 +34,5 @@ author_profile: true
 <img src="../assets/images/bike.JPG" alt="IMG_2982" style="max-width: 75%; height: auto;">
 <img src="../assets/images/IMG_2988.jpg" alt="IMG_2988" style="max-width: 75%; height: auto;">
 <img src="../assets/images/IMG_2996.jpg" alt="IMG_2996" style="max-width: 75%; height: auto;">
-<img src="../assets/images/IMG_3001.JPG" alt="IMG_3001" style="max-width: 75%; height: auto;">
 <img src="../assets/images/IMG_3013.jpg" alt="IMG_3013" style="max-width: 75%; height: auto;">
 <img src="../assets/images/labo.jpg" alt="IMG_2982" style="max-width: 75%; height: auto;">
