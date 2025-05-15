@@ -26,6 +26,11 @@ author_profile: true
 
 # Recommendations
 
+[Kyoto](https://www.google.com/maps/d/u/0/edit?mid=1myDf7hhCDIB0zTT-va7_Ur1ns0nAE2k&usp=sharing)
+[Tokyo](https://www.google.com/maps/d/u/0/edit?mid=1rJmsx3ane8e_gNSuajgAnGzL0ZA-0Ow&usp=sharing)
+[Shanghai & Hangzhou Map](https://www.google.com/maps/d/u/0/edit?mid=1GvXNFhwESkI5RhZnmCDswGMtR9baabI&usp=sharing)
+
+
 ## Tokyo
 
 ### Historic & Nature
