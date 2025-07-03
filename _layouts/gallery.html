@@ -12,3 +12,46 @@
   </main>
 </body>
 </html>
+
+<script>
+document.addEventListener('DOMContentLoaded', async () => {
+  const response = await fetch('/assets/data/gallery.json');
+  const images = await response.json();
+  const params = new URLSearchParams(window.location.search);
+  const page = parseInt(params.get('page')) || 1;
+  const pageSize = 6;
+  const start = (page - 1) * pageSize;
+  const end = start + pageSize;
+
+  const container = document.querySelector('.gallery');
+  images.slice(start, end).forEach(img => {
+    const figure = document.createElement('figure');
+    const image = document.createElement('img');
+    image.src = img.src;
+    image.alt = img.caption;
+
+    const caption = document.createElement('figcaption');
+    caption.textContent = img.caption;
+
+    figure.appendChild(image);
+    figure.appendChild(caption);
+    container.appendChild(figure);
+  });
+
+  // Set up pagination
+  const nav = document.querySelector('.pagination');
+  if (page > 1) {
+    const prev = document.createElement('a');
+    prev.href = `?page=${page - 1}`;
+    prev.textContent = '← Previous';
+    nav.appendChild(prev);
+  }
+
+  if (end < images.length) {
+    const next = document.createElement('a');
+    next.href = `?page=${page + 1}`;
+    next.textContent = 'Next →';
+    nav.appendChild(next);
+  }
+});
+</script>
