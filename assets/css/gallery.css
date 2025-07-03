@@ -56,6 +56,30 @@ nav.pagination a:hover {
   text-decoration: underline;
 }
 
+.topnav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #ccc;
+  background-color: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.topnav a {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.25rem;
+  color: #111;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  text-decoration: underline;
+}
+
+
 /* Responsive tweaks */
 @media (max-width: 768px) {
   .gallery {
