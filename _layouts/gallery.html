@@ -15,7 +15,7 @@
 
 <script>
 document.addEventListener('DOMContentLoaded', async () => {
-  const response = await fetch('/assets/data/gallery.json');
+  const response = await fetch('/assets/gallery.json');
   const images = await response.json();
   const params = new URLSearchParams(window.location.search);
   const page = parseInt(params.get('page')) || 1;
