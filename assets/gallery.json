@@ -4,26 +4,24 @@
   { "src": "/assets/images/IMG_2988.jpg", "caption": "Suzhou, 2024" },
   { "src": "/assets/images/IMG_2996.jpg", "caption": "Shanghai, 2024" },
   { "src": "/assets/images/IMG_3013.jpg", "caption": "Le Labo" },
-  { "src": "/assets/images/DSCF5442.jpg", "caption": "The Bund" },
+  { "src": "/assets/images/to_summer.jpg", "caption": "To Summer" },
 
-  { "src": "/assets/images/labo.jpg", "caption": "Jiangsu Garden" },
+  { "src": "/assets/images/DSCF5442.jpg", "caption": "The Bund" },
   { "src": "/assets/images/magnolia.jpg", "caption": "Magnolia" },
   { "src": "/assets/images/water.jpg", "caption": "Water" },
   { "src": "/assets/images/spring.jpg", "caption": "Spring" },
   { "src": "/assets/images/IMG_3027.JPG", "caption": "Tokyo, 2024" },
-  { "src": "/assets/images/choontei.jpg", "caption": "Choontei" },
-  
+  { "src": "/assets/images/IMG_1040.JPG", "caption": "" },
+
   { "src": "/assets/images/DSCF5018_Original.jpg", "caption": "" },
   { "src": "/assets/images/schindler.jpg", "caption": "Schindler" },
-  { "src": "/assets/images/IMG_1040.JPG", "caption": "" },
   { "src": "/assets/images/IMG_3018.JPG", "caption": "" },
-  { "src": "/assets/images/DSCF6201_Original.jpg", "caption": "" },
   { "src": "/assets/images/IMG_2689.jpg", "caption": "" },
-  
   { "src": "/assets/images/IMG_2700.jpg", "caption": "" },
+  { "src": "/assets/images/DSCF6201_Original.jpg", "caption": "" }
+  
   { "src": "/assets/images/noguchi.JPG", "caption": "Noguchi" },
   { "src": "/assets/images/bund2.JPG", "caption": "The Bund" },
-  { "src": "/assets/images/to_summer.jpg", "caption": "To Summer" }
-  
+  { "src": "/assets/images/choontei.jpg", "caption": "Choontei" },
 
 ]
