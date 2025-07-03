@@ -28,7 +28,7 @@ body {
 .gallery img {
   width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: 0;
   border: 1px solid #ccc;
   object-fit: cover;
 }
