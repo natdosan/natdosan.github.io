@@ -1,3 +1,6 @@
+/* Garamond font */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
 body {
   font-family: 'EB Garamond', serif;
   margin: 0;
@@ -8,7 +11,7 @@ body {
 
 .gallery {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  grid-template-columns: repeat(3, 1fr);  /* 3 columns */
   grid-auto-rows: auto;
   gap: 1.5rem;
   max-width: 1200px;
@@ -51,4 +54,17 @@ nav.pagination a {
 
 nav.pagination a:hover {
   text-decoration: underline;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .gallery {
+    grid-template-columns: repeat(2, 1fr);  /* 2 columns on tablets */
+  }
+}
+
+@media (max-width: 480px) {
+  .gallery {
+    grid-template-columns: 1fr;  /* Stack images vertically on phones */
+  }
 }
