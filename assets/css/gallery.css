@@ -9,13 +9,26 @@ body {
   color: #111;
 }
 
-.gallery {
+/* .gallery {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);  /* 3 columns */
+  grid-template-columns: repeat(2, 1fr);
   grid-auto-rows: auto;
   gap: 1.5rem;
   max-width: 1200px;
   margin: 0 auto;
+}*/
+
+.gallery {
+  display: grid;
+  gap: 2rem;
+}
+
+.gallery.two-by-two {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.gallery.three-by-two {
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .gallery figure {
