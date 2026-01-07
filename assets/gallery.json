@@ -1,4 +1,9 @@
 [
+  { "src": "/assets/images/choonteifilm.jpg", "caption": "Kyoto, 2025" },
+  { "src": "/assets/images/ruriko.jpg", "caption": "Kyoto, 2025" },
+  { "src": "/assets/images/nezu1.jpg", "caption": "Tokyo, 2025" },
+  { "src": "/assets/images/nezu2.jpg", "caption": "Tokyo, 2025" },
+  
   { "src": "/assets/images/IMG_2982.jpg", "caption": "Tokyo, 2024" },
   { "src": "/assets/images/bike.JPG", "caption": "Kyoto, 2024" },
   { "src": "/assets/images/IMG_2988.jpg", "caption": "Suzhou, 2024" },
