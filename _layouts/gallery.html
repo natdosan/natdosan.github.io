@@ -23,15 +23,26 @@ document.addEventListener('DOMContentLoaded', async () => {
   function pageSizeFor(page, images) {
     // First two pages are always 4
     if (page <= 2) return 4;
-
+  
     const start = startIndexFor(page, images);
+  
+    // Try to form a 6-image horizontal page
     const candidates = images.slice(start, start + 6);
-
+  
+    if (candidates.length < 6) return candidates.length;
+  
     const landscapeCount = candidates.filter(
       img => img.orientation === 'landscape'
     ).length;
-
-    return landscapeCount >= candidates.length / 2 ? 6 : 4;
+  
+    // Allow a 6-image page even if only 2 are landscape
+    // This prevents permanent 4-page lock-in
+    if (landscapeCount >= 2) {
+      return 6;
+    }
+  
+    // Otherwise fall back to 4
+    return 4;
   }
 
   function startIndexFor(page, images) {
