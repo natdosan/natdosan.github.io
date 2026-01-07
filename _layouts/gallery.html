@@ -19,6 +19,29 @@
 </html>
 <script>
 document.addEventListener('DOMContentLoaded', async () => {
+
+  function pageSizeFor(page, images) {
+    // First two pages are always 4
+    if (page <= 2) return 4;
+
+    const start = startIndexFor(page, images);
+    const candidates = images.slice(start, start + 6);
+
+    const landscapeCount = candidates.filter(
+      img => img.orientation === 'landscape'
+    ).length;
+
+    return landscapeCount >= candidates.length / 2 ? 6 : 4;
+  }
+
+  function startIndexFor(page, images) {
+    let start = 0;
+    for (let p = 1; p < page; p++) {
+      start += pageSizeFor(p, images);
+    }
+    return start;
+  }
+
   const response = await fetch('/assets/gallery.json');
   const images = await response.json();
 
@@ -28,11 +51,21 @@ document.addEventListener('DOMContentLoaded', async () => {
   const container = document.querySelector('.gallery');
   const nav = document.querySelector('.pagination');
 
-  const pageSize = 6;
-  const start = (page - 1) * pageSize;
-  const pageImages = images.slice(start, start + pageSize);
+  const size = pageSizeFor(page, images);
+  const start = startIndexFor(page, images);
+  const pageImages = images.slice(start, start + size);
 
-  // --- Render immediately ---
+  // --- Apply layout class BEFORE render ---
+  const landscapeCount = pageImages.filter(
+    img => img.orientation === 'landscape'
+  ).length;
+
+  container.classList.remove('two-by-two', 'three-by-two');
+
+  const isTwoByTwo = landscapeCount >= pageImages.length / 2 && size === 4;
+  container.classList.add(isTwoByTwo ? 'two-by-two' : 'three-by-two');
+
+  // --- Render ---
   pageImages.forEach(img => {
     const figure = document.createElement('figure');
     const image = document.createElement('img');
@@ -50,44 +83,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     container.appendChild(figure);
   });
 
-  // --- Detect orientation AFTER render ---
-  let landscapeCount = 0;
-  let checked = 0;
-
-  container.querySelectorAll('img').forEach(img => {
-    if (img.complete) {
-      check(img);
-    } else {
-      img.onload = () => check(img);
-    }
-  });
-
-  function check(img) {
-    if (img.naturalWidth >= img.naturalHeight) {
-      landscapeCount++;
-    }
-    checked++;
-
-    if (checked === pageImages.length) {
-      applyLayout();
-    }
-  }
-
-  function applyLayout() {
-    container.classList.remove('two-by-two', 'three-by-two');
-
-    if (landscapeCount >= pageImages.length / 2) {
-      container.classList.add('two-by-two');
-
-      // hide last two images instead of rerendering
-      [...container.children].forEach((fig, i) => {
-        fig.style.display = i < 4 ? '' : 'none';
-      });
-    } else {
-      container.classList.add('three-by-two');
-    }
-  }
-
   // --- Pagination ---
   if (page > 1) {
     const prev = document.createElement('a');
@@ -96,12 +91,14 @@ document.addEventListener('DOMContentLoaded', async () => {
     nav.appendChild(prev);
   }
 
-  if (start + pageSize < images.length) {
+  if (start + size < images.length) {
     const next = document.createElement('a');
     next.href = `?page=${page + 1}`;
     next.textContent = 'Next →';
     nav.appendChild(next);
   }
+
 });
 </script>
+
 
