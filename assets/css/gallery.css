@@ -43,7 +43,7 @@ body {
   height: auto;
   border-radius: 0;
   border: 1px solid #ccc;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .gallery figcaption {
