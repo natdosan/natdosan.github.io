@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const images = await response.json();
   const params = new URLSearchParams(window.location.search);
   const page = parseInt(params.get('page')) || 1;
-  const pageSize = 6;
+  const pageSize = 4;
   const start = (page - 1) * pageSize;
   const end = start + pageSize;
 
