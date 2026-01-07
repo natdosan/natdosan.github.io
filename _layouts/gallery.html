@@ -17,34 +17,69 @@
   </main>
 </body>
 </html>
-
 <script>
 document.addEventListener('DOMContentLoaded', async () => {
   const response = await fetch('/assets/gallery.json');
   const images = await response.json();
   const params = new URLSearchParams(window.location.search);
   const page = parseInt(params.get('page')) || 1;
-  const pageSize = 4;
-  const start = (page - 1) * pageSize;
-  const end = start + pageSize;
 
   const container = document.querySelector('.gallery');
-  images.slice(start, end).forEach(img => {
+  const nav = document.querySelector('.pagination');
+
+  const start = (page - 1) * 6;
+  const pageImages = images.slice(start, start + 6);
+
+  let landscapeCount = 0;
+  let loaded = 0;
+
+  pageImages.forEach(img => {
     const figure = document.createElement('figure');
     const image = document.createElement('img');
+    const caption = document.createElement('figcaption');
+
     image.src = img.src;
     image.alt = img.caption;
-
-    const caption = document.createElement('figcaption');
     caption.textContent = img.caption;
 
-    figure.appendChild(image);
-    figure.appendChild(caption);
-    container.appendChild(figure);
+    image.onload = () => {
+      if (image.naturalWidth >= image.naturalHeight) {
+        landscapeCount++;
+      }
+
+      loaded++;
+
+      // Once all images are loaded, decide layout
+      if (loaded === pageImages.length) {
+        if (landscapeCount >= pageImages.length / 2) {
+          container.classList.add('two-by-two');
+          renderImages(pageImages.slice(0, 4));
+        } else {
+          container.classList.add('three-by-two');
+          renderImages(pageImages);
+        }
+      }
+    };
+
+    function renderImages(imgs) {
+      container.innerHTML = '';
+      imgs.forEach(i => {
+        const f = document.createElement('figure');
+        const im = document.createElement('img');
+        const cap = document.createElement('figcaption');
+
+        im.src = i.src;
+        im.alt = i.caption;
+        cap.textContent = i.caption;
+
+        f.appendChild(im);
+        f.appendChild(cap);
+        container.appendChild(f);
+      });
+    }
   });
 
-  // Set up pagination
-  const nav = document.querySelector('.pagination');
+  // Pagination
   if (page > 1) {
     const prev = document.createElement('a');
     prev.href = `?page=${page - 1}`;
@@ -52,7 +87,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     nav.appendChild(prev);
   }
 
-  if (end < images.length) {
+  if (start + 6 < images.length) {
     const next = document.createElement('a');
     next.href = `?page=${page + 1}`;
     next.textContent = 'Next →';
