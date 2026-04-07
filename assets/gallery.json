@@ -1,4 +1,14 @@
 [
+  { "src": "/assets/images/mxy.JPG", "caption": "Hangzhou, 2026", "orientation": "landscape"},
+  { "src": "/assets/images/mxy2.JPG", "caption": "Hangzhou, 2026", "orientation": "landscape"},
+  { "src": "/assets/images/shan_1.JPG", "caption": "Shanghai, 2026", "orientation": "landscape"},
+  { "src": "/assets/images/shan_2.JPG", "caption": "Shanghai, 2026", "orientation": "landscape"},
+
+  { "src": "/assets/images/qyfh.JPG", "caption": "Hangzhou, 2026", "orientation": "landscape"},
+  { "src": "/assets/images/qyfh2.JPG", "caption": "Hangzhou, 2026", "orientation": "landscape"},
+  { "src": "/assets/images/mns.JPG", "caption": "Hangzhou, 2026", "orientation": "landscape"},
+  { "src": "/assets/images/mns2.JPG", "caption": "Hangzhou, 2026", "orientation": "landscape"},
+  
   { "src": "/assets/images/ruriko.jpg", "caption": "Kyoto, 2025", "orientation": "landscape"},
   { "src": "/assets/images/ruriko2.jpg", "caption": "Kyoto, 2025", "orientation": "landscape"},
   { "src": "/assets/images/choonteifilm.jpg", "caption": "Kyoto, 2025", "orientation": "landscape" },
