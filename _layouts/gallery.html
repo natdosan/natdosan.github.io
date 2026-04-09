@@ -19,65 +19,20 @@
 </html>
 <script>
 document.addEventListener('DOMContentLoaded', async () => {
-
-  function pageSizeFor(page, images) {
-    // First two pages are always 4
-    if (page <= 2) return 4;
-  
-    const start = startIndexFor(page, images);
-  
-    // Try to form a 6-image horizontal page
-    const candidates = images.slice(start, start + 6);
-  
-    if (candidates.length < 6) return candidates.length;
-  
-    const landscapeCount = candidates.filter(
-      img => img.orientation === 'landscape'
-    ).length;
-  
-    // Allow a 6-image page even if only 2 are landscape
-    // This prevents permanent 4-page lock-in
-    if (landscapeCount >= 2) {
-      return 6;
-    }
-  
-    // Otherwise fall back to 4
-    return 4;
-  }
-
-  function startIndexFor(page, images) {
-    let start = 0;
-    for (let p = 1; p < page; p++) {
-      start += pageSizeFor(p, images);
-    }
-    return start;
-  }
-
   const response = await fetch('/assets/gallery.json');
-  const images = await response.json();
+  const groups = await response.json();
 
   const params = new URLSearchParams(window.location.search);
-  const page = parseInt(params.get('page')) || 1;
+  const page = Math.max(1, Math.min(parseInt(params.get('page')) || 1, groups.length));
+  const group = groups[page - 1];
 
   const container = document.querySelector('.gallery');
   const nav = document.querySelector('.pagination');
 
-  const size = pageSizeFor(page, images);
-  const start = startIndexFor(page, images);
-  const pageImages = images.slice(start, start + size);
+  // Layout class driven by explicit declaration, not inference
+  container.classList.add(group.layout === '2x2' ? 'two-by-two' : 'three-by-two');
 
-  // --- Apply layout class BEFORE render ---
-  const landscapeCount = pageImages.filter(
-    img => img.orientation === 'landscape'
-  ).length;
-
-  container.classList.remove('two-by-two', 'three-by-two');
-
-  const isTwoByTwo = landscapeCount >= pageImages.length / 2 && size === 4;
-  container.classList.add(isTwoByTwo ? 'two-by-two' : 'three-by-two');
-
-  // --- Render ---
-  pageImages.forEach(img => {
+  group.images.forEach(img => {
     const figure = document.createElement('figure');
     const image = document.createElement('img');
     const caption = document.createElement('figcaption');
@@ -86,7 +41,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     image.alt = img.caption;
     image.loading = 'lazy';
     image.decoding = 'async';
-
     caption.textContent = img.caption;
 
     figure.appendChild(image);
@@ -94,7 +48,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     container.appendChild(figure);
   });
 
-  // --- Pagination ---
+  // Pagination
   if (page > 1) {
     const prev = document.createElement('a');
     prev.href = `?page=${page - 1}`;
@@ -102,13 +56,12 @@ document.addEventListener('DOMContentLoaded', async () => {
     nav.appendChild(prev);
   }
 
-  if (start + size < images.length) {
+  if (page < groups.length) {
     const next = document.createElement('a');
     next.href = `?page=${page + 1}`;
     next.textContent = 'Next →';
     nav.appendChild(next);
   }
-
 });
 </script>
 
