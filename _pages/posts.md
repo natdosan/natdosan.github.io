@@ -24,7 +24,7 @@ permalink: /posts/
   <p><em>April 8, 2026</em></p>
   <p>It would not be an interesting course without acknowledging the amazing instructors, Scott Guenther, David Reiley, David Brockman!</p>
 
-  <p><a href="https://natdosan.github.io/hangzhou" style="font-weight: bold; color: #002676;"></a>A Spring Break in Hangzhou</p>
+  <p><a href="https://natdosan.github.io/hangzhou" style="font-weight: bold; color: #002676;">A Spring Break in Hangzhou</a></p>
   <p><em>April 1, 2026</em></p>
   <p>For the nature and city lover, this is a must read and must visit destination. Many regard Hangzhou as a place beautiful throughout all seasons, and I can confirm that, at least for Spring, they are right.</p>
 
