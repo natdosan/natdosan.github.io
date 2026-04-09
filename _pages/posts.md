@@ -28,6 +28,10 @@ permalink: /posts/
   <p><em>September 1, 2025</em></p>
   <p>In preparation for this fall's data science recruiting season.</p>
 
+  <p><a href="https://natdosan.github.io/assets/pdfs/A_Causal_Analysis_on_Public_Transportation_in_NYC.pdf" style="font-weight: bold; color: #002676;">An Observational Analysis on NYC Public Transportation</a></p>
+  <p><em>March 24, 2024</em></p>
+  <p>This research explores an introductory analysis of the relationships between different transportation methods and socioeconomic factors in New York City. It involves Geospatial (GIS) data science as well as a simple regression model.</p>
+
   <p><a href="https://natdosan.github.io/ml-reference/" style="font-weight: bold; color: #002676;">ML Reference & Interview Prep</a></p>
   <p><em>September 28, 2022</em></p>
   <p>Course notes as an undergrad / grad student at UCSD, UC Berkeley, and accumulated interview prep resources.</p>
