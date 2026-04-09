@@ -30,7 +30,12 @@ permalink: /posts/
 
   <p><a href="https://github.com/natdosan/spotify-sme" style="font-weight: bold; color: #002676;">Creating a Spotify Subject Matter Expert</a></p>
   <p><em>August 6, 2025</em></p>
-  <p>The music industry is rapidly evolving, with new genres and subgenres constantly emerging. However, identifying and tracking these trends is largely reactive and anecdotal. There is a need for a data-driven approach to uncover and understand emerging music genres before they become mainstream, enabling better curation, marketing, and artist development. By utilizing the Spotify Developer API, I was able to scrape trending songs and analyze trends in genres and artists through unsupervised methods.</p>
+  <p>The music industry is rapidly evolving, with new genres and subgenres constantly emerging. However, identifying and tracking these trends is largely reactive and anecdotal. There is a need for a data-driven approach to uncover and understand emerging music genres before they become mainstream, enabling better curation, marketing, and artist development. By utilizing the Spotify Developer API, I was able to scrape trending songs and analyze trends in genres and artists through unsupervised methods thanks to the many fields Spotify tracks for any given song.</p>
+
+  <p><a href="https://natdosan.github.io/assets/pdfs/LLM_Reasoning_poster.pdf" style="font-weight: bold; color: #002676">Multi-Modal LLM Reasoning & Agent Modeling</a></p>
+  <p><em>March 18, 2025</em></p>
+  <p>Web-based agents using LLMs show promise in automating browser tasks, but scaling inference efficiently remains a challenge. This work explores the question of how best to structure search: implicit (greedy, depth-limited) or explicit (structured exploration like MCTS). Implicit search is potentially computationally cheaper but struggles with backtracking, while explicit search enables efficient exploration but relies on resettable states, which may be impractical in real-world web environments. Another aspect to consider is conducting an explicit search on an LLM world model, where the search occurs over predicted next states as opposed to the environment itself, which can potentially gain the benefits of both implicit and explicit search.</p>
+
 
   <p><a href="https://natdosan.github.io/assets/pdfs/A_Causal_Analysis_on_Public_Transportation_in_NYC.pdf" style="font-weight: bold; color: #002676;">An Observational Analysis on NYC Public Transportation</a></p>
   <p><em>March 24, 2024</em></p>
