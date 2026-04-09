@@ -11,6 +11,22 @@ toc_icon: "chalkboard-teacher"
 toc_sticky: true
 ---
 
+<div style="background-color: transparent; width: 100%; padding: 15px 0;">
+  <table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <span style="font-family: 'Inter', sans-serif; font-size: 24px;">
+          <a href="index.html" style="color: black; text-decoration: none;">Nathaniel (Nate) del Rosario</a>
+        </span>
+        <span style="float: right;">
+          <a href="https://natdosan.github.io/posts/" style="color: black; margin-left: 20px; text-decoration: none;" onmouseover="this.style.color='black'" onmouseout="this.style.color='#FDB515'">Posts</a>
+          <a href="https://natdosan.github.io/notes/" style="color: black; margin-left: 20px; text-decoration: none;" onmouseover="this.style.color='black'" onmouseout="this.style.color='#FDB515'">Notes</a>
+        </span>
+      </td>
+    </tr>
+  </table>
+</div>
+
 This [repository](https://github.com/natdosan/ML-Reference) includes notes (primarily slides) and links to organizations & courses (or their equivalent counterparts) I have taken at UC San Diego / UC Berkeley. For my own notes, see below.
 
 ## Important
