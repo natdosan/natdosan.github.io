@@ -1,6 +1,8 @@
 ---
 layout: none
 title: Posts
+permalink: /posts/
+---
 
 <div style="background-color: transparent; width: 100%; padding: 15px 0;">
   <table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
