@@ -28,4 +28,8 @@ permalink: /posts/
   <p><em>April 8, 2026</em></p>
   <p>It would not be an interesting course without acknowledging the amazing instructors, Scott Guenther, David Reiley, David Brockman!</p>
 
+  <p><a href="https://www.ischool.berkeley.edu/courses/datasci/241" style="font-weight: bold; color: #002676;">ML Algorithms From Scratch</a></p>
+  <p><em>September 1, 2025</em></p>
+  <p>In preparation for this fall's data science recruiting season.</p>
+  
 </div>
