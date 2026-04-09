@@ -19,9 +19,13 @@ title: Posts
 </div>
 
 **[ML Reference & Interview Prep](https://natdosan.github.io/ml-reference/)**
+
 *April 8, 2026*
+
 Course notes as an undergrad / grad student at UCSD, UC Berkeley, and accumulated interview prep resources. 
 
 **[My Favorite Course at UC Berkeley (So far)](https://www.ischool.berkeley.edu/courses/datasci/241)**
+
 *April 8, 2026*
+
 It would not be an interesting course without acknowledging the amazing instructors, Scott Guenther, David Reiley, David Brockman!
