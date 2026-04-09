@@ -96,20 +96,17 @@ nav.pagination a:hover {
 }
 
 
-/* Mobile: 1 column */
+/* Mobile: smaller margin */
 .gallery {
   display: grid;
   grid-template-columns: 1fr;
   gap: 1rem;
+  margin: 0 1rem;
 }
 
-/* Laptop/desktop: 2×2 */
+/* Laptop: 1 inch margin */
 @media (min-width: 768px) {
-  .gallery.two-by-two {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  .gallery.three-by-two {
-    grid-template-columns: repeat(3, 1fr);
+  .gallery {
+    margin: 0 1in;
   }
 }
