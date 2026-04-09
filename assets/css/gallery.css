@@ -104,9 +104,16 @@ nav.pagination a:hover {
   margin: 0 1rem;
 }
 
-/* Laptop: 1 inch margin */
 @media (min-width: 768px) {
   .gallery {
     margin: 0 1in;
+  }
+
+  .gallery.two-by-two {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .gallery.three-by-two {
+    grid-template-columns: repeat(3, 1fr);
   }
 }
