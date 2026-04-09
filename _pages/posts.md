@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: clean
 title: Posts
 permalink: /posts/
 ---
