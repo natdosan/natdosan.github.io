@@ -8,13 +8,13 @@ permalink: /posts/
   <table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <span style="font-family: 'Inter', sans-serif; font-size: 24px;">
-          <a href="https://natdosan.github.io" style="color: black; text-decoration: none;">Nathaniel (Nate) del Rosario</a>
-        </span>
-        <span style="font-family: 'Inter', sans-serif; font-size: 24px; "float: right;">
-          <a href="/posts/" style="color: black; margin-left: 20px; text-decoration: none;" onmouseover="this.style.color='#FDB515'" onmouseout="this.style.color='black'">Posts</a>
-          <a href="https://natdosan.github.io/notes/" style="color: black; margin-left: 20px; text-decoration: none;" onmouseover="this.style.color='#FDB515'" onmouseout="this.style.color='black'">Notes</a>
-        </span>
+      <span style="font-family: 'Inter', sans-serif; font-size: 24px;">
+        <a href="https://natdosan.github.io" style="color: black; text-decoration: none;">Nathaniel (Nate) del Rosario</a>
+      </span>
+      <span style="float: right;">
+        <a href="/posts/" style="font-family: 'Inter', sans-serif; font-size: 16px; color: black; margin-left: 20px; text-decoration: none;" onmouseover="this.style.color='#FDB515'" onmouseout="this.style.color='black'">Posts</a>
+        <a href="https://natdosan.github.io/notes/" style="font-family: 'Inter', sans-serif; font-size: 16px; color: black; margin-left: 20px; text-decoration: none;" onmouseover="this.style.color='#FDB515'" onmouseout="this.style.color='black'">Notes</a>
+      </span>
       </td>
     </tr>
   </table>
