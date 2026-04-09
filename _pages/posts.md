@@ -20,6 +20,8 @@ permalink: /posts/
   </table>
 </div>
 
+<div style="width: 800px; margin: 0 auto; font-family: 'Inter', sans-serif;">
+
 **[ML Reference & Interview Prep](https://natdosan.github.io/ml-reference/)**
 
 *April 8, 2026*
@@ -31,3 +33,5 @@ Course notes as an undergrad / grad student at UCSD, UC Berkeley, and accumulate
 *April 8, 2026*
 
 It would not be an interesting course without acknowledging the amazing instructors, Scott Guenther, David Reiley, David Brockman!
+
+<div style="width: 800px; margin: 0 auto; font-family: 'Inter', sans-serif;">
