@@ -11,7 +11,7 @@ permalink: /posts/
         <span style="font-family: 'Inter', sans-serif; font-size: 24px;">
           <a href="https://natdosan.github.io" style="color: black; text-decoration: none;">Nathaniel (Nate) del Rosario</a>
         </span>
-        <span style="float: right;">
+        <span style="font-family: 'Inter', sans-serif; font-size: 24px; "float: right;">
           <a href="/posts/" style="color: black; margin-left: 20px; text-decoration: none;" onmouseover="this.style.color='#FDB515'" onmouseout="this.style.color='black'">Posts</a>
           <a href="https://natdosan.github.io/notes/" style="color: black; margin-left: 20px; text-decoration: none;" onmouseover="this.style.color='#FDB515'" onmouseout="this.style.color='black'">Notes</a>
         </span>
@@ -22,16 +22,12 @@ permalink: /posts/
 
 <div style="width: 800px; margin: 0 auto; font-family: 'Inter', sans-serif;">
 
-**[ML Reference & Interview Prep](https://natdosan.github.io/ml-reference/)**
+  <p><a href="https://natdosan.github.io/ml-reference/" style="font-weight: bold; color: #002676;">ML Reference & Interview Prep</a></p>
+  <p><em>April 8, 2026</em></p>
+  <p>Course notes as an undergrad / grad student at UCSD, UC Berkeley, and accumulated interview prep resources.</p>
 
-*April 8, 2026*
-
-Course notes as an undergrad / grad student at UCSD, UC Berkeley, and accumulated interview prep resources.
-
-**[My Favorite Course at UC Berkeley (So far)](https://www.ischool.berkeley.edu/courses/datasci/241)**
-
-*April 8, 2026*
-
-It would not be an interesting course without acknowledging the amazing instructors, Scott Guenther, David Reiley, David Brockman!
+  <p><a href="https://www.ischool.berkeley.edu/courses/datasci/241" style="font-weight: bold; color: #002676;">My Favorite Course at UC Berkeley (So far)</a></p>
+  <p><em>April 8, 2026</em></p>
+  <p>It would not be an interesting course without acknowledging the amazing instructors, Scott Guentther, David Reiley, David Brockman!</p>
 
 </div>
