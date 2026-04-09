@@ -20,10 +20,6 @@ permalink: /posts/
 <!-- content -->
 <div style="max-width: 800px; margin: 40px auto; padding: 0 1rem; font-family: 'Inter', sans-serif; box-sizing: border-box;">
 
-  <p><a href="https://natdosan.github.io/ml-reference/" style="font-weight: bold; color: #002676;">ML Reference & Interview Prep</a></p>
-  <p><em>April 8, 2026</em></p>
-  <p>Course notes as an undergrad / grad student at UCSD, UC Berkeley, and accumulated interview prep resources.</p>
-
   <p><a href="https://www.ischool.berkeley.edu/courses/datasci/241" style="font-weight: bold; color: #002676;">My Favorite Course at UC Berkeley (So far)</a></p>
   <p><em>April 8, 2026</em></p>
   <p>It would not be an interesting course without acknowledging the amazing instructors, Scott Guenther, David Reiley, David Brockman!</p>
@@ -31,5 +27,9 @@ permalink: /posts/
   <p><a href="https://www.ischool.berkeley.edu/courses/datasci/241" style="font-weight: bold; color: #002676;">ML Algorithms From Scratch</a></p>
   <p><em>September 1, 2025</em></p>
   <p>In preparation for this fall's data science recruiting season.</p>
+
+  <p><a href="https://natdosan.github.io/ml-reference/" style="font-weight: bold; color: #002676;">ML Reference & Interview Prep</a></p>
+  <p><em>September 28, 2022</em></p>
+  <p>Course notes as an undergrad / grad student at UCSD, UC Berkeley, and accumulated interview prep resources.</p>
   
 </div>
