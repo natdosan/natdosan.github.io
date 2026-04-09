@@ -9,11 +9,11 @@ permalink: /posts/
     <tr>
       <td>
         <span style="font-family: 'Inter', sans-serif; font-size: 24px;">
-          <a href="index.html" style="color: black; text-decoration: none;">Nathaniel (Nate) del Rosario</a>
+          <a href="https://natdosan.github.io" style="color: black; text-decoration: none;">Nathaniel (Nate) del Rosario</a>
         </span>
         <span style="float: right;">
-          <a href="https://natdosan.github.io/ml-reference/" style="color: black; margin-left: 20px; text-decoration: none;" onmouseover="this.style.color='black'" onmouseout="this.style.color='#FDB515'">Posts</a>
-          <a href="https://natdosan.github.io/notes/" style="color: black; margin-left: 20px; text-decoration: none;" onmouseover="this.style.color='black'" onmouseout="this.style.color='#FDB515'">Notes</a>
+          <a href="/posts/" style="color: black; margin-left: 20px; text-decoration: none;" onmouseover="this.style.color='#FDB515'" onmouseout="this.style.color='black'">Posts</a>
+          <a href="https://natdosan.github.io/notes/" style="color: black; margin-left: 20px; text-decoration: none;" onmouseover="this.style.color='#FDB515'" onmouseout="this.style.color='black'">Notes</a>
         </span>
       </td>
     </tr>
@@ -26,7 +26,7 @@ permalink: /posts/
 
 *April 8, 2026*
 
-Course notes as an undergrad / grad student at UCSD, UC Berkeley, and accumulated interview prep resources. 
+Course notes as an undergrad / grad student at UCSD, UC Berkeley, and accumulated interview prep resources.
 
 **[My Favorite Course at UC Berkeley (So far)](https://www.ischool.berkeley.edu/courses/datasci/241)**
 
@@ -34,4 +34,4 @@ Course notes as an undergrad / grad student at UCSD, UC Berkeley, and accumulate
 
 It would not be an interesting course without acknowledging the amazing instructors, Scott Guenther, David Reiley, David Brockman!
 
-<div style="width: 800px; margin: 0 auto; font-family: 'Inter', sans-serif;">
+</div>
