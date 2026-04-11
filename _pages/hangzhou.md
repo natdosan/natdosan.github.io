@@ -33,13 +33,19 @@ permalink: /hangzhou/
 
   <p>If I were to recommend three places to view cherry blossoms, specifically the Somei Yoshino kind, they would all be in Hangzhou. The first is the China Courtyard Mengxi Garden (中国院子·梦溪苑). At Mengxi Garden, you can observe over a hundred deliberately planted cherry trees alongside traditional Hui style architecture. This may actually be the most beautiful garden I have every been - no exaggerating. The highlight of the garden is arguably the stone bridge near the entrance, where lights underneath during blue hour create a golden crescent reflecting on the water below, with the flowers creating a canopy above. As far as I know, this is the only place in the world where a “moon reflecting” bridge and cherry blossoms barely above one’s head meet. The only thing that stops this place from being a 10/10 is that it is an hour commute from West Lake, so it is quite a trip. Even then, it may still be a perfect 10. </p>
 
-  <a href="https://natdosan.github.io/assets/images/mxy.JPG">梦溪苑</a>
+  <!--<a href="https://natdosan.github.io/assets/images/mxy.JPG"></a>-->
+  <img src="https://natdosan.github.io/assets/images/mxy.JPG" alt="梦溪苑" style="width: 200px; height: auto;">
+
 
   <p>The second place is Quyuan Fenghe (曲院风荷）which roughly translates to Breezy Lotus at Crooked Courtyard. Although the lotus aren’t in bloom at this time, many cherry trees are, lining the small river and edge of the bay just along the northwestern edge of West Lake. There are a few stone bridges that also catch they eye; viewing the bridges with the flowers from a far is a calming view, just as is viewing the flowers lining the river from below the bridge. If you have a rainy day on your trip, this is the place to go.</p>
 
-  <a href="https://natdosan.github.io/assets/images/qyfh.JPG">曲院风荷</a>
+  <!--<a href="https://natdosan.github.io/assets/images/qyfh.JPG">曲院风荷</a>-->
+  <img src="https://natdosan.github.io/assets/images/qyfh.JPG" alt="曲院风荷" style="width: 200px; height: auto;">
+
 
   <p>The last place could be any of Prince Bay Park (太子湾),  Manao Temple (玛瑙寺), or Yunsong Study (云松书舍). These each have their own charm, and to keep the reader curious, I leave these as places for one to lookup and discover Hangzhou’s charm.</p>
-  <a href="https://natdosan.github.io/assets/images/mns.JPG">玛瑙寺</a>
+  
+  <!--<a href="https://natdosan.github.io/assets/images/mns.JPG">玛瑙寺</a>-->
+  <img src="https://natdosan.github.io/assets/images/mns.JPG" alt="玛瑙寺" style="width: 200px; height: auto;">
 
 </div>
