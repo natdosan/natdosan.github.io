@@ -20,7 +20,7 @@ permalink: /posts/
 <!-- content -->
 <div style="max-width: 800px; margin: 40px auto; padding: 0 1rem; font-family: 'Inter', sans-serif; box-sizing: border-box;">
 
-  <p><a href="https://www.ischool.berkeley.edu/courses/datasci/241" style="font-weight: bold; color: #002676;">My Favorite Course at UC Berkeley (So far)</a></p>
+  <p><a href="https://natdosan.github.io/assets/pdfs/minute_effect.pdf" style="font-weight: bold; color: #002676;">My Favorite Course at UC Berkeley (So far)</a></p>
   <p><em>April 8, 2026</em></p>
   <p>It would not be an interesting course without acknowledging the amazing instructors, Scott Guenther, David Reiley, David Brockman!</p>
 
