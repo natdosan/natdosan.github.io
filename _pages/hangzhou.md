@@ -26,7 +26,13 @@ permalink: /hangzhou/
   <a href="https://natdosan.github.io/notes/">Photos</a>
   
   <p>For the past 14 months or so, I've longed for one place and one place only - Hangzhou, specifically during the last week of March.</p>
+
+  <img src="https://natdosan.github.io/assets/images/xihu.JPG" alt="梦溪苑" style="width: 80%; height: auto;">
+
   <p>Known for its Longjing tea grown only in the 168 square kilometeres around the famous West Lake, the city is a convenient trip for anyone already visiting Shanghai. It is regarded as a place that is beautful through all seasons, which I whole-heartedly agree with. A respectively large, yet still walkable lake surrounded by full green mountains and a highly developed downtown make this the ideal place for those who love both the slow, tranquil nature & scenery of Kyoto as well as the urban environment of New York. This is precisely what drew me to the city.</p>
+
+  <img src="https://natdosan.github.io/assets/images/mxy3.JPG" alt="梦溪苑" style="width: 80%; height: auto;">
+
   <p>The strongest contributor to my longing for seeing Hangzhou was not seeing the West Lake itself, but rather all the hidden corners that lie around its edges. During the last week of March, the scenery is known to be especially beautiful as the Somei Yoshino breed of cherry blossoms begin to open. For the month leading up to my arrival, I spent every morning tracking the end of day updates from locals on the bloom progress.</p>
   <p>Luck was not always on my side however; weather in the  Zhejiang region fluctuates daily, if not hourly. On March 5th, a local on 小红书 posted how the budding phase occurred 5 days  earlier compared to the previous year. This suggested an estimated opening around the 15th, with full bloom by the 22nd. Upon hearing this news, I scrambled to shift the Hangzhou portion of my trip before Shanghai instead of after. </p>
   <p>Two weeks later, the clouds had set in, with overcast, cold weather forecasted for the next three weeks. I questioned whether I had made the right choice - whether I would miss the peak bloom. Now, it was too late; I couldn’t cancel any hotel, and I was to hop on a plane the following afternoon. Through my first three days in Hangzhou, my anxiety relieved itself as a majority of the flowers had opened. The feeling of seeing what I had longed for the past year was a satisfaction I may only feel a few times in my life. </p>
