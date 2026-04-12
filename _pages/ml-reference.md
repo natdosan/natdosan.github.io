@@ -34,12 +34,13 @@ permalink: /ml-reference/
     <li><a href="https://cs280-berkeley.github.io/" style="color: #002676;">CS 280 - Computer Vision</a></li>
     <li><a href="https://ds100.org/sp23/" style="color: #002676;">Data 100 - Principles and Techniques of Data Science</a></li>
     <li><a href="https://www.data101.org/sp24/" style="color: #002676;">Data 101 - Data Engineering</a></li>
+    <li><a href="https://purrfect-zinc-f80.notion.site/Data-241-Notes-Causal-Inference-33bab2f2dc2780069171d84dd43e9382?source=copy_link" style="color: #002676;">Data 241 - Causal Inference</a></li>
   </ul>
-
   <h2>Papers & Reads</h2>
   <ul>
+    <li><a href="https://www.yuan-meng.com/posts/causality/causality/" style="color: #002676;">Causal Inference in Data Science</a></li>
+    <li><a href="https://www.yuan-meng.com/posts/newgrads/" style="color: #002676;">(Quirky) Roadmap for New Grad Data Scientists</a></li>
     <li><a href="https://sndev.ucsd.edu/its?id=kb_article_view&sysparm_article=KB0033812" style="color: #002676;">Terminals in DataHub</a></li>
-    <li><a href="https://www.catalyzex.com/paper/arxiv:1901.03915" style="color: #002676;">CatalyzeX</a></li>
     <li><a href="https://www.v7labs.com/blog/neural-style-transfer" style="color: #002676;">Neural Style Transfer 1</a></li>
     <li><a href="https://reiinakano.com/2019/06/21/robust-neural-style-transfer.html" style="color: #002676;">Neural Style Transfer 2</a></li>
     <li><a href="https://sites.google.com/view/icml-2022-big-model" style="color: #002676;">Big Model</a></li>
@@ -57,8 +58,6 @@ permalink: /ml-reference/
     <li><a href="https://lilywenglab.github.io/" style="color: #002676;">Lily Weng</a></li>
     <li><a href="http://roseyu.com" style="color: #002676;">Rose Yu</a></li>
     <li><a href="https://huiwenn.github.io/assets/img/idx/cv.pdf" style="color: #002676;">Sophia Sun</a></li>
-    <li><a href="https://jshen13.github.io/" style="color: #002676;">Jeffrey</a></li>
-    <li><a href="https://parkeraddison.com/" style="color: #002676;">Parker</a></li>
     <li><a href="http://young-geng.xyz/" style="color: #002676;">Xinyang Geng</a></li>
   </ul>
 
