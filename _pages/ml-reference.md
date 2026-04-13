@@ -32,14 +32,16 @@ permalink: /ml-reference/
     <li><a href="https://inst.eecs.berkeley.edu/~cs188/su23/" style="color: #002676;">CS 188 - Artificial Intelligence</a> &nbsp;<a href="https://purrfect-zinc-f80.notion.site/CS-188-Notes-0db1181094744173ac5efdce49d563d9" style="color: #002676;">[Notes]</a></li>
     <li><a href="https://people.eecs.berkeley.edu/~jrs/189/" style="color: #002676;">CS 189 - Machine Learning</a></li>
     <li><a href="https://cs280-berkeley.github.io/" style="color: #002676;">CS 280 - Computer Vision</a></li>
-    <li><a href="https://ds100.org/sp23/" style="color: #002676;">Data 100 - Principles and Techniques of Data Science</a></li>
+    <li><a href="https://ds100.org/sp23/" style="color: #002676;">Data 100 - Principles and Techniques of Data Science</a> <a href="https://ds100.org/course-notes/introduction/" style="color: #002676;">[Notes]</a></li>
     <li><a href="https://www.data101.org/sp24/" style="color: #002676;">Data 101 - Data Engineering</a></li>
     <li><a href="https://purrfect-zinc-f80.notion.site/Data-241-Notes-Causal-Inference-33bab2f2dc2780069171d84dd43e9382?source=copy_link" style="color: #002676;">Data 241 - Causal Inference</a></li>
   </ul>
   <h2>Papers & Reads</h2>
   <ul>
+    <li><a href="https://matheusfacure.github.io/python-causality-handbook/landing-page.html" style="color: #002676;">Causal Inference for the Brave and True</a></li>
     <li><a href="https://www.yuan-meng.com/posts/causality/causality/" style="color: #002676;">Causal Inference in Data Science</a></li>
     <li><a href="https://www.yuan-meng.com/posts/newgrads/" style="color: #002676;">(Quirky) Roadmap for New Grad Data Scientists</a></li>
+    <li><a href="https://inferentialthinking.com/" style="color: #002676;">Computational and Inferential Thinking</a></li>
     <li><a href="https://sndev.ucsd.edu/its?id=kb_article_view&sysparm_article=KB0033812" style="color: #002676;">Terminals in DataHub</a></li>
     <li><a href="https://www.v7labs.com/blog/neural-style-transfer" style="color: #002676;">Neural Style Transfer 1</a></li>
     <li><a href="https://reiinakano.com/2019/06/21/robust-neural-style-transfer.html" style="color: #002676;">Neural Style Transfer 2</a></li>
